@@ -6,5 +6,6 @@
 - NPC - [[Mike Harming]]
 - Oggetti - [[Monete SilveryMoon]]
 - PG - [[Brafalar]]
+- Divinità - [[Lathander]]
 
 
