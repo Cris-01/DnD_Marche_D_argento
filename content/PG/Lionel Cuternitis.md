@@ -1,0 +1,6 @@
+- Giocatore: Cristian
+- Nome: Lionel Cuternitis
+- Razza: umano
+- Classe: mago 
+- Sottoclasse: scuola di evocazione
+- Famiglio: [[Coral (famiglio)]] serpente

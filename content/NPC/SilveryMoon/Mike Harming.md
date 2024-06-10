@@ -1,0 +1,1 @@
+![[mike_harming.jpg]]

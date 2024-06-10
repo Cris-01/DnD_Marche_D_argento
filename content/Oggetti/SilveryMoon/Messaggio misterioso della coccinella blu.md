@@ -1,0 +1,1 @@
+"A Silverymoon il Satiro Sorridente è un luogo tranquillo, chiedete al taverniere una bottiglia di liquore nanico. Con affetto, Coccinella Blu". - Messaggio del Piccione
