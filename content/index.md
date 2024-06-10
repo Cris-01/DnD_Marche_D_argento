@@ -2,9 +2,9 @@
 # Sezioni
 
 - Recap sessioni - [[Sessione 1]]
-- Luoghi - 
-- NPC - 
-- Oggetti - 
-- PG - 
+- Luoghi - [[SilveryMoon (città)]]
+- NPC - [[Mike Harming]]
+- Oggetti - [[Monete SilveryMoon]]
+- PG - [[Brafalar]]
 
 
