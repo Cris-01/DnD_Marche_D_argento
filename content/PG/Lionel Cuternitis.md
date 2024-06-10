@@ -1,3 +1,6 @@
+
+![[lionel 2.jpg]]
+
 - Giocatore: Cristian
 - Nome: Lionel Cuternitis
 - Razza: umano

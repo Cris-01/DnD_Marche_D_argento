@@ -1,3 +1,5 @@
+![[sabine.jpg]]
+
 - Giocatore: Elisa
 - Nome: Sabine
 - Razza: lucertoloide

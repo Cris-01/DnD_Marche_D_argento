@@ -1,4 +1,7 @@
 
+![[brafalar.jpg]]
+
+
 - Giocatore: Francesco
 - Nome: Brafalar
 - Razza: tiefling (versione blu)

@@ -1,3 +1,5 @@
+![[solero.jpg]]
+
 - Giocatore: Alex
 - Nome: (Padre) Solero
 - Razza: umano
