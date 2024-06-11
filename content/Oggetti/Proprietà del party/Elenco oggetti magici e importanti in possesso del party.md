@@ -9,4 +9,4 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 ### Oggetti utili
 
 - Borsa del guaritore, Lionel ([[Sessione 2]])
-- Moneta Eclisse trovata nel combattimento coi banditi fuori da Silverymoon ([[Sessione 1]])
+- Moneta Eclisse trovata nel combattimento coi banditi fuori da Silverymoon, Solero ([[Sessione 1]])
