@@ -6,6 +6,7 @@
 - NPC - [[Mike Harming]]
 - Oggetti - [[Elenco oggetti magici e importanti in possesso del party]]
 - PG - [[Blàfar]]
+- Quest - [[Indice quests]]
 - Divinità - [[Lathander]]
 
 
