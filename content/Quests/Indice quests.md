@@ -1,7 +1,7 @@
 
 ### Quests attive
 
-- [[Coccinella Blu]]
+- [[Coccinella Blu (quest)]]
 - [[Miniera delle farfalle (quest)|Miniera delle farfalle (quest)]]
 
 ### Quests completate
