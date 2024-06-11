@@ -1,3 +1,3 @@
 ![[pantene.jpg]]
 
-Pantene è il famiglio di [[Brafalar]]
+Pantene è il famiglio di [[Blàfar]]

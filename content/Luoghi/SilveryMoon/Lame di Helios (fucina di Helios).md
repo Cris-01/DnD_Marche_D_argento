@@ -1,0 +1,1 @@
+Fucina di proprietà di [[Helios Opyum, fabbro]]

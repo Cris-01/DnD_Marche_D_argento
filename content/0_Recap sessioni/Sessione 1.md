@@ -6,7 +6,7 @@ Piove. Siamo una locanda dove i boscaioli della carovana a cui ci siamo accodati
 All'interno di questa locanda i quattro avventurieri si incontrano
 
 Abbiamo:
-	- [[Brafalar]], un tiefling blu che ha come compagno [[Pantene (famiglio)]] (la macchina omicida perfetta)
+	- [[Blàfar]], un tiefling blu che ha come compagno [[Pantene (famiglio)]] (la macchina omicida perfetta)
 	- [[Sabine]], un gigantesco lucertoloide
 	- [[Padre Solero]], un chierico umano molto espansivo
 	- [[Lionel Cuternitis]], un mago umano allergico a quasi tutti gli animali (piume e pelo). Ha un famiglio serpente di nome [[Coral (famiglio)]]
@@ -19,9 +19,9 @@ A quanto pare suo figlio è stato accettato alla scuola di magia "La volta dei s
 Salutata la carovana una volta arrivati ad un bivio, si avviano insieme verso la città.
 Durante la notte hanno scoperto un po' di più su di loro.
 
-Brafalar, ha un famiglio topo che porta con se di nome Pantene. Si veste leggero nonostante la temperatura non proprio calda. Sembra avere un carattere riservato. Non apprezza l'invasività di Padre Solero
+Blàfar, ha un famiglio topo che porta con se di nome Pantene. Si veste leggero nonostante la temperatura non proprio calda. Sembra avere un carattere riservato. Non apprezza l'invasività di Padre Solero
 
-Sabine accompagna e protegge Brafalar facendogli da scorta. Venera il dio dei paladini [[Torm]]. 
+Sabine accompagna e protegge Blàfar facendogli da scorta. Venera il dio dei paladini [[Torm]]. 
 
 Padre Solero, è un chierico molto espansivo e tratta tutti come pecorelle da salvare. Venera il dio [[Lathander]], il signore del mattino.
 
@@ -41,7 +41,7 @@ NOTA: tra gli oggetti in possesso dei banditi, Solero trova alcune monete:
 - alcune monete di bronzo (bagliori)
 - alcune d'argento (scudi)
 - qualche moneta d'oro (draghi)
-- una strana moneta, conosciuta solo da Brafalar e Sabine, un'eclisse (50GP)
+- una strana moneta, conosciuta solo da Blàfar e Sabine, un'eclisse (50GP)
 
 Prima di arrivare vicino alla città, sulla spalla di Solero si poggia un piccione che inizia a recitare un messaggio con la voce di una persona
 
@@ -49,7 +49,7 @@ Prima di arrivare vicino alla città, sulla spalla di Solero si poggia un piccio
 
 Arrivati ai confini della città, circondata da mura alte 10 metri, veniamo fermati davanti la porta dell'ingresso a nord-est da degli uomini che identifichiamo come facenti parte della guardia cittadina ([[Stendardo guardia cittadina di SilveryMoon]]). Essi, riconosciuto il ragazzo che portiamo a cavallo, lo prendono in consegna e noi li lasciamo fare.
 
-I soldati prendono i nostri nomi e ci chiedono di non lasciare la città. Chiediamo indicazione su dove alloggiare. Ci facciamo dare le indicazione per arrivare al [[Satiro Sorridente, locanda]]. Alcuni cercano di memorizzare le indicazioni, Lionel le segna su un foglio di pergamena (a quanto pare è vicino alla scuola di magia "La volta dei saggi").
+I soldati prendono i nostri nomi e ci chiedono di non lasciare la città. Chiediamo indicazione su dove alloggiare. Ci facciamo dare le indicazione per arrivare al [[Satiro Sorridente (locanda)]]. Alcuni cercano di memorizzare le indicazioni, Lionel le segna su un foglio di pergamena (a quanto pare è vicino alla scuola di magia "La volta dei saggi").
 
 
 
