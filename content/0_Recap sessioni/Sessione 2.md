@@ -24,14 +24,14 @@ Chiediamo ad Sorla se possiamo avere delle stanze ma ne è rimasta una sola libe
 Ci viene anche mostrata e prestata una mappa della città ([[Mappa di SilveryMoon]]), e Sorla ci mostra i luoghi più interessanti:
 
 - ci sono due scuole di magia:
-	- La "Volta dei saggi", scuola per maghi
-	- L' "Invocazione arcana", scuola per stregoni
-- Zona degli invicibili, dove si trova chi detiene il potere della città
-- Elmo e Martello, fucina dedicata a [[Helm]] e [[Tyr]]
-- Grande collegio della musica
+	- La [[Volta dei saggi (SilveryMoon)]], scuola per maghi
+	- L' [[Invocazione arcana (Scuola)]], scuola per stregoni
+- [[Palazzo nella casa degli invincibili]], dove si trova chi detiene il potere della città
+- [[Elmo e martello (fucina)]], dedicata a [[Helm]] e [[Tyr]]
+- [[Gran collegio della musica]]
 - Corte delle corporazioni nella grande piazza
 - Mercato
-- Santuario delle stelle d'argento
+- [[Santuario delle stelle d'argento]]
 
 Lionel chiede a Sorla qualche informazione su [[Peter Harming]]. A quanto pare è il capo della corporazione delle gilde.
 
@@ -44,7 +44,7 @@ Bràfal, mentre noi stiamo dormendo, parla con qualche strana entità (accenni a
 
 Il mattino seguente ci svegliamo e iniziamo i rituali mattutini. Solero, che ha scelto un letto vicino alla finestra che punta ad est, recita le sue preghiere giornaliere (in tanga). Lionel evoca tramite un rituale di qualche minuto il suo servitore invisibile per rifare il letto e dare una sistemata alla stanza.
 
-Scesi per far colazione troviamo ad attenderci alcune guardie che, a quanto pare, hanno ricevuto il compito di scortarci fino al [[Palazzo nella zona degli invincibili]], una volta finita la colazione.
+Scesi per far colazione troviamo ad attenderci alcune guardie che, a quanto pare, hanno ricevuto il compito di scortarci fino al [[Palazzo nella casa degli invincibili]], una volta finita la colazione.
 Prima di concludere la colazione in locanda, Solero approfitta per recitare la sua parabola mattutina ai presenti, la quale è incentrata sul parlare dell'altro nome con cui è conosciuto [[Lathander]], ovvero Amaunator. 
 
 Decidiamo di seguire i soldati di buon grado, ed essi ci scortano lungo le strade della città, le quali sono piene di persone, molte delle quali sono elfi e mezz'elfi.
