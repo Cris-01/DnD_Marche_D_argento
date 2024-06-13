@@ -1,4 +1,4 @@
-Di proprietà di [[Annette, l'erborista]].
+Di proprietà di [[Annette Reynolds, l'erborista]].
 
 Annette, in negozio possiede:
 - pozioni di guarigione

@@ -48,24 +48,24 @@ Scesi per far colazione troviamo ad attenderci alcune guardie che, a quanto pare
 Prima di concludere la colazione in locanda, Solero approfitta per recitare la sua parabola mattutina ai presenti, la quale è incentrata sul parlare dell'altro nome con cui è conosciuto [[Lathander]], ovvero Amaunator. 
 
 Decidiamo di seguire i soldati di buon grado, ed essi ci scortano lungo le strade della città, le quali sono piene di persone, molte delle quali sono elfi e mezz'elfi.
-Fuori dal castello notiamo un gruppo di paladini di Tyr che si stanno esercitando. Solero alza lo scudo per far ben notare il simbolo sacro di Lathander.
+Fuori dal castello notiamo un gruppo di paladini di Tyr che si stanno esercitando. Solero alza lo scudo per coprirsi e non farsi notare da loro.
 
 Entrati a palazzo, veniamo scortati attraverso un corridoio il quale è decorato con vari quadri per tutta la sua lunghezza; Lionel identifica le persone ritratte come i precedenti cancellieri che hanno governato la città. L'ultimo quadro del corridoio ritrae un uomo molto anziano che pare l'attuale cancelliere al comando della città [[Cancelliere Theod Alacryl Leomas Moonstep]].
 
 Arriviamo, infine, in una stanza con un grande tavolo e delle sedie. Un uomo di mezz'età di armatura si presenta come [[Bruce Davis, Comandante delle guardie]]. Ci invita a sederci; vuole interrogarci su quanto avvenuto il giorno precedente.
-Da una porta sul retro vediamo entrare un'armatura da cavaliere colossale indossata da qualche creatura (che Sabine scoprirà poi essere noto come [[Erk, il campione]]), seguita dappresso da un'altra persona d'arme con tratti chiarimenti elfici. Quest'ultimo ci viene presentato come [[Generale Sernius Alathar]].
+Da una porta sul retro vediamo entrare un'armatura da cavaliere colossale indossata da qualche creatura (che Sabine scoprirà poi essere noto come [[Erk, il campione]]), seguita dappresso da un'altra persona d'arme con tratti chiarimenti elfici. Quest'ultimo ci viene presentato come [[Generale Sernius Alathar]] (dall'armatura si capisce che è un paladino di Helm).
 Insieme a questi si aggiunge anche [[Peter Harming]], padre del ragazzo che abbiamo salvato e capo della corporazione delle gilda.
 
-Viene interrogato su quanto avvenuto sulla strada verso SilveryMoon. Raccontiamo di come siamo stati attaccati. Dei due orchi, i quattro banditi e quello che sembrava essere il loro capo. Sabine, ricordardo il combattimento, ci fa sapere di aver notato un goblin che è fuggito nella foresta subito dopo averle lanciato contro il pugnale all'inizio del combattimento.
+Viene interrogato su quanto avvenuto sulla strada verso SilveryMoon. Raccontiamo di come siamo stati attaccati. Dei due orchi, i quattro banditi e quello che sembrava essere il loro capo. Sabine, ricordando il combattimento, ci fa sapere di aver notato un goblin che è fuggito nella foresta subito dopo averle lanciato contro il pugnale all'inizio del combattimento.
 I nostri interrogatori sembrano particolarmente interessati al pugnale e chiedono di esaminarlo. 
 Dopo qualche altro scambio, ci viene chiesto se siamo interessati a dare una mano alla guardia cittadina indagando su questo pugnale per poi fare rapporto al comandante.
 
 Ci vengono indicati alcune persone che potrebbero aiutarci:
-- [[Annette, l'erborista]], a cui fare analizzare il veleno
+- [[Annette Reynolds, l'erborista]], a cui fare analizzare il veleno
 - [[Xara Tantlor, arcanista]] a cui fare analizzare il pugnale
 - Guardia magica, una specie di polizia che controllo l'uso di artefatti e oggetti magici
 
-Ci viene consegnata una lettera per Annette, firmata da Peter Harming, come una ricompensa per avere salvato il giovane Mike.
+Ci viene consegnata una lettera per Annette, firmata da Peter Harming, come una ricompensa per avere salvato il giovane Mike. Inoltre il signor Harming si impegna a pagarci vitto e alloggio presso il [[Satiro Sorridente (locanda)]] per la durata della nostra permanenza.
 
 Bràfal chiede informazioni al [[Tenente Bricks]]. Scopre che il capo della gilda dei mercanti è un certo [[Theoden Barrowstone, capogilda dei mercanti]]. Egli è probabilmente rintracciabile lungo il fiume, dove ci sono i mercati.
 
@@ -102,7 +102,7 @@ Le pozioni presenti sono:
 
 Dopo aver accettato le pozioni, chiediamo l'aiuto di Annette per il veleno sulla lama del pugnale. Ella ci dice che dovrà lavorarci su e ci farà sapere l'indomani. (Rimuove il veleno dalla lama per le analisi)
 
-Ci rechiamo al negozio [[Pergamene arcane (negozio)]], un negozio scuro e polveroso dove incontriamo [[Xara Tantlor, arcanista]] la proprietaria. La troviamo con un corvo sulla spalla, che ci fa la cortesia di far scomparire notando che Lionel ne è allergico.
+Ci rechiamo al negozio [[Pergamena splendente (negozio)]], un negozio scuro e polveroso dove incontriamo [[Xara Tantlor, arcanista]] la proprietaria. La troviamo con un corvo sulla spalla, che ci fa la cortesia di far scomparire notando che Lionel ne è allergico.
 Notiamo che il negozio è pieno di pergamene e cose strane sparse in giro.
 Chiediamo a Xara di analizzare il pugnale con le strane iscrizioni. Lei accetta ma dovrà lavorarci per un po'.
 Nel frattempo, siccome è in cerca di nuovi collaboratori, dopo che gli ultimi si sono dimostrati non degni di fiducia, invita gli avventurieri a investigare una casa di cui ha acquisito la proprietà di recente ma non ha modo di andare a controllare lei stessa.
