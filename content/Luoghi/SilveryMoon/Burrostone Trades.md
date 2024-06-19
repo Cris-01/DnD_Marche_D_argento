@@ -1,0 +1,1 @@
+Sede della società comandata dal capogilda dei mercanti [[Theoden Burrowstone, capogilda dei mercanti]]

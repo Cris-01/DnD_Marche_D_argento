@@ -67,7 +67,7 @@ Ci vengono indicati alcune persone che potrebbero aiutarci:
 
 Ci viene consegnata una lettera per Annette, firmata da Peter Harming, come una ricompensa per avere salvato il giovane Mike. Inoltre il signor Harming si impegna a pagarci vitto e alloggio presso il [[Satiro Sorridente (locanda)]] per la durata della nostra permanenza.
 
-Bràfal chiede informazioni al [[Tenente Bricks]]. Scopre che il capo della gilda dei mercanti è un certo [[Theoden Barrowstone, capogilda dei mercanti]]. Egli è probabilmente rintracciabile lungo il fiume, dove ci sono i mercati.
+Bràfal chiede informazioni al [[Tenente Bricks]]. Scopre che il capo della gilda dei mercanti è un certo [[Theoden Burrowstone, capogilda dei mercanti]]. Egli è probabilmente rintracciabile lungo il fiume, dove ci sono i mercati.
 
 Finito l'incontro ci accompagnano fuori.
 Fuori dal palazzo incrociamo un umano con un grembiule, il quale stava lanciando qualche lamentela contro gli abitanti del palazzo.
