@@ -1,0 +1,1 @@
+![[Erk_campione.jpg]]
