@@ -6,7 +6,7 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - Pozione di antiveleno, Solero ([[Sessione 2]])
 - [[Borsa conservante]], Blàfar ([[Sessione 2]])
 - Anello con ametista, Blàfar ([[Sessione 2]])
-- Cristallo donato da [[Padre Franz]], Solero ([[Sessione 3]])
+- Cristallo donato da [[Padre Klaus]], Solero ([[Sessione 3]])
 
 ### Oggetti utili
 

@@ -11,7 +11,7 @@ Sabine decide di rimane fuori capendo che la conversazione sarebbe stata noiosa 
 Blàfar, una volta entrato nell'edificio e salite le scale, trova l'ufficio del capogilda.
 Il signor BurrowStone, si presenta con un uomo molto robusto, pelato, mento pronunciato e vestito elegantemente.
 Blàfar gli si presenta dicendogli di essere un'aspirante mercante e di aver imparato le basi del mestiere dai suoi genitori [[Anondein e Stuer (genitori Blàfar)]], che si trovano ad [[Auvandell (villaggio)]]. Dopo essersi presentato, chiede di poter fare esperienza come mercante e chiede l'aiuto del signor BurrowStone in merito.
-Burrowstone chiama nel suo ufficio un uomo basso e mingherlino detto [[Faina]]. Il nuovo arrivato viene incaricato di presentare Blàfar al caposquadre [[Mos (caposquadre Burrostone)]].
+Burrowstone chiama nel suo ufficio un uomo basso e mingherlino detto [[Faina]]. Il nuovo arrivato viene incaricato di presentare Blàfar al caposquadre [[Mos (caposquadre Burrowstone)]].
 Mos si occuperà di far svolgere a Blàfar qualche primo lavoro di manovalanza, per fargli fare un po' di gavetta. Può cominciare quando vuole. Faina prende nota di dove alloggia Blàfar, ovvero il [[Satiro Sorridente (locanda)]].
 Prima di lasciare l'ufficio di Burrowstone, quest'ultimo commenta, mostrando ai presenti una mappa abbozzata delle marche d'argento, che lui non fa banali commerci con le vicine città ma preferisce far affari con la costa della spada. Molto più pericoloso ma molto più remunerativo.
 
@@ -38,12 +38,13 @@ Qualche attimo dopo, gli artisti fanno il loro ingresso:
 
 Aspettiamo il dopo serata, prima di presentarci agli artisti. Nel mentre lo gnomo Badger è il primo ad andarsene. Blàfar e Solero si avvicinano agli altri due e scambiano due chiacchiere. Gli insegnanti ci invitano a fargli visita al Collegio.
 
-Andiamo a dormire in camera. Prima di addormentarsi Solero nota una strana luminosità provenire dal suo zaino. E' un cristallo donatogli da [[Padre Franz]]. Esso, di solito, si illumina nelle notti di luna (piena?), mentre questa sera la luna è calante il che è strano, ma non sappiamo cosa significa. 
+Andiamo a dormire in camera. Prima di addormentarsi Solero nota una strana luminosità provenire dal suo zaino. E' un cristallo donatogli da [[Padre Klaus]]. Esso, di solito, si illumina nelle notti di luna (piena?), mentre questa sera la luna è calante il che è strano, ma non sappiamo cosa significa. 
 Ci addormentiamo tutti tranne Blàfar che conversa col suo anello con ametista.
 
 Mattina del 3 maggio.
 Soliti rituali mattutini.
 Andiamo velocemente al [[Palazzo nella casa degli invincibili]] perché Solero si è dimenticato di consegnare gli effetti personali delle guardie morte durante l'attacco fuori dalla città a cui abbiamo fatto il funerale. Parliamo col [[Tenente Bricks]], ma egli ci dice di consegnarli direttamente ai famigliari durante i veri funerali che si terranno l'indomani. ([[Riconsegnare oggetti personali dei soldati al funerale del 4 maggio (quest)]]).
+Prima che ci allontaniamo troppo il tenente Bricks chiama a se Sabine per dirle qualcosa ma noi siamo troppo lontani per sentire. 
 
 Solero ci narra la seconda parte della parabola su Lathander.
 
