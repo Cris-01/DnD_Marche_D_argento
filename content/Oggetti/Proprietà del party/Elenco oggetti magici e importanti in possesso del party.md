@@ -7,6 +7,9 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - [[Borsa conservante]], Blàfar ([[Sessione 2]])
 - Anello con ametista, Blàfar ([[Sessione 2]])
 - Cristallo donato da [[Padre Klaus]], Solero ([[Sessione 3]])
+- Pergamena della Ragnatela, Lionel ([[Sessione 4]])
+- [[Guanti del ladro - Gloves of Thievery]], Blafar ([[Sessione 4]]) 
+
 
 ### Oggetti utili
 
