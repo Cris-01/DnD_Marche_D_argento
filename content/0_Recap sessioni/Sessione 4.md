@@ -37,4 +37,6 @@ Subito dopo, Xara ci informa che ha completato i suoi test sul pugnale. Su di es
 
 "Il servo obbediente onora il patto"
 
-Non sappiamo altro ma nel caso volessimo continuare ad indagare sul goblin, ci invita a far visita ad un certo [[Nevil (goblin meccanico)]]. Egli ha un negozio di gemme in città, costruisce delle cose. Potrebbe avere delle informazioni a riguardo sul goblin che cerchiamo
+Non sappiamo altro ma nel caso volessimo continuare ad indagare sul goblin, ci invita a far visita ad un certo [[Nevil (goblin meccanico)]]. Egli ha un negozio di gemme in città, costruisce delle cose. Potrebbe avere delle informazioni a riguardo sul goblin che cerchiamo.
+
+NOTA: quest completata della casa nel bosco completata - [[Indice quests]].
