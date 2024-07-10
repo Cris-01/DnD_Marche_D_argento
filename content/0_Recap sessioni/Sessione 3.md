@@ -1,5 +1,7 @@
 ( Data: 13/06/2024 )
 
+Data in-game: 2° maggio
+
 Dopo esserci congedati da [[Xara Tantlor, arcanista]], usciamo dal negozio per decidere il da farsi.
 [[Blàfar]] dice di dover fare un giro per svolgere degli affari, mentre [[Lionel Cuternitis]] vorrebbe approfittare per fare un salto alla scuola della [[Volta dei saggi (SilveryMoon)]] per fare alcuni ricerche sul libro cifrato che possiede. Il gruppo si divide in due, Blafar e [[Sabine]] si avviano verso la piazza del mercato e Lionel e [[Padre Solero]] vanno verso la scuola.
 

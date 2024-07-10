@@ -1,5 +1,7 @@
 (Data: 10/06/2024)
 
+Data in-game: 1° maggio
+
 Superato il portone di ingresso, i quattro avventurieri arrivano al [[Satiro Sorridente (locanda)]], dove fanno la conoscenza di [[Sorlar (locandiere del satiro sorridente)]].
 
 Esposto nella locanda vediamo il manifesto di un evento che si terrà la sera successiva, ovvero il "Gran concerto del Collegio della musica". A detta di Sorla, è un concerto tenuto dagli insegnanti del Collegio, il quale ogni anno si svolge in un luogo diverso, e quest'anno è toccato alla locanda del satiro sorridente.

@@ -16,3 +16,4 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - Borsa del guaritore, Lionel ([[Sessione 2]])
 - Moneta Eclisse trovata nel combattimento coi banditi fuori da Silverymoon, Solero ([[Sessione 1]])
 - Libro misterioso cifrato, Lionel ([[Sessione 2]])
+- Attrezzi da scassinatore, Blafar ([[Sessione 5]])
