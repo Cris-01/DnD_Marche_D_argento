@@ -7,3 +7,6 @@
 - Classe: mago 
 - Sottoclasse: scuola di evocazione
 - Famiglio: [[Coral (famiglio)]] serpente
+
+Approfondimenti:
+- [[Sessione 2]] - deve decifrare un libro cifrato lasciatogli da un amico ([[Amico Lionel ---]])

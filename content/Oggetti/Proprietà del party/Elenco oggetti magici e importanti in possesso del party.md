@@ -1,4 +1,4 @@
-I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre Solero]], [[Lionel Cuternitis]])
+I seguenti oggetti sono in possesso del party ([[content/PG/Sabine]], [[content/PG/Blàfar]], [[Padre Solero]], [[Lionel Cuternitis]])
 
 ### Oggetti magici
 

@@ -3,7 +3,7 @@
 Data in-game: 2° maggio
 
 Dopo esserci congedati da [[Xara Tantlor, arcanista]], usciamo dal negozio per decidere il da farsi.
-[[Blàfar]] dice di dover fare un giro per svolgere degli affari, mentre [[Lionel Cuternitis]] vorrebbe approfittare per fare un salto alla scuola della [[Volta dei saggi (SilveryMoon)]] per fare alcuni ricerche sul libro cifrato che possiede. Il gruppo si divide in due, Blafar e [[Sabine]] si avviano verso la piazza del mercato e Lionel e [[Padre Solero]] vanno verso la scuola.
+[[content/PG/Blàfar]] dice di dover fare un giro per svolgere degli affari, mentre [[Lionel Cuternitis]] vorrebbe approfittare per fare un salto alla scuola della [[Volta dei saggi (SilveryMoon)]] per fare alcuni ricerche sul libro cifrato che possiede. Il gruppo si divide in due, Blafar e [[content/PG/Sabine]] si avviano verso la piazza del mercato e Lionel e [[Padre Solero]] vanno verso la scuola.
 
 Lionel e Solero attraversano la città e superano il fiume passando sopra il MoonBridge, un ponte magico che collega le due sponde. Un ponte di energia luminosa che permette il transito delle persone.
 

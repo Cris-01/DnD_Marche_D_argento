@@ -5,9 +5,9 @@ Data in-game: 3° maggio
 Usciti dal negozio di [[Xara Tantlor, arcanista]], [[Padre Solero]] ferma un passante (elfa) per chiedere dove poter pranzare. Ci viene indicata la locanda [[La Stangata (locanda costosa)]], (non la consideriamo sapendo che è molto costosa), il [[Satiro Sorridente (locanda)]] (che già conosciamo), e la "??? danzante".
 Optiamo per tornare al Satiro Sorridente avendo vitto e alloggio pagato, ma siccome il negozio del [[Il goblin meccanico (invenzioni)]] e molto vicino decidiamo di passare prima li.
 
-Lungo la strada perdiamo di vista [[Sabine]], che si infila in un tendone viole lungo la strada. Avendola notata all'ultimo Solero la segua per invitarla a prestare attenzione ad eventuali truffatori. Sabine lo rassicura e chiude la tenda congedandosi dal gruppo per seguire le sue faccende.
+Lungo la strada perdiamo di vista [[content/PG/Sabine]], che si infila in un tendone viole lungo la strada. Avendola notata all'ultimo Solero la segua per invitarla a prestare attenzione ad eventuali truffatori. Sabine lo rassicura e chiude la tenda congedandosi dal gruppo per seguire le sue faccende.
 
-[[Lionel Cuternitis]], [[Blàfar]] e Solero a questo punto continuano per la strada fino ad arrivare al negozio che gli era stato indicato da Xara.
+[[Lionel Cuternitis]], [[content/PG/Blàfar]] e Solero a questo punto continuano per la strada fino ad arrivare al negozio che gli era stato indicato da Xara.
 Si tratta di un negozio con una porticina, due finestrelle e una semplice insegna con su dipinto il nome "Il goblin meccanico".
 Entriamo, l'interno sembra essere molto più grande; vediamo aggeggi di ogni tipo da tutte le parti (macchinari/utensili).
 
@@ -60,9 +60,20 @@ Torniamo verso l'ingresso e salutiamo il tizio che fuma che non vuole dirci come
 
 Andiamo a pranzo al Satiro Sorridente.
 [[Sorlar (locandiere del satiro sorridente)]], ci dice che Sabine è passata di li per mangiare ma non ci ha trovato.
-Da mangiare prendiamo quello che è rimasto vista l'ora tarda. Riso e patata. Lionel usa prestidigitazione per aromatizzare il piatto aggiungendo il sapore delle cozze
+Da mangiare prendiamo quello che è rimasto vista l'ora tarda. Riso e patate. Lionel usa prestidigitazione per aromatizzare il piatto aggiungendo il sapore delle cozze
 
 Dopo pranzo ci dividiamo, Lionel torna al negozio dal cartografo per lavorare alla copia della mappa, mentre Solero e Blafar vanno da [[Burrostone Trades]] per l'apprendistato di Blafar.
+
+Tornato dal cartografo, Lionel, dopo essere stato messo un po' alla prova da Elword sulle sue competenze come cartografo, gli viene permesso di ricopiare la mappa. Richiede del tempo ma riesce nel compito. In cambio di ulteriore lavoro nel ricopiare altre mappe riesce a ottenere la mappa della miniera delle farfalle gratuitamente.
+
+Blafar e Solero giungono da Burrostone Trades e vanno a cercare [[Mos (caposquadre Burrowstone)]] per dar modo a Blafar di iniziare il suo apprendistato. 
+Mos assegna loro alcuni lavori manuali (spostare alcune casse e similari). Blafar riesce egregiamente nel compito.
+Solero, nel mentre, tramite i suoi poteri divini (guida), aiuta un giovane manovale di nome [[Bart, manovale di Burrowstone]], nello svolgimento dei suoi compiti e nel mentre lo inizia al culto di [[Lathander]].
+
+Una volta finite tutte le attività, Blafar si reca da [[Theoden Burrowstone, capogilda dei mercanti]], per fare rapporto dei suoi progressi e passare al prossimo passo del suo apprendistato.
+Theoden pare molto colpito dalla velocità con cui è stato eseguito il lavoro e come successiva richiesta invita a Blafar a selezionare un gruppo di uomini adatti a svolgere compiti da manovale (gente forte ma poco istruita e facile da gestire).
+
+Congedatosi da Theoden, Blafar esce e se ne va con Solero che nel mentre la completato la sua opera di conversione del giovane Bart.
 
 
 

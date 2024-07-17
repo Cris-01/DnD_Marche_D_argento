@@ -1,3 +1,3 @@
 ![[pantene.jpg]]
 
-Pantene è il famiglio di [[Blàfar]]
+Pantene è il famiglio di [[content/PG/Blàfar]]

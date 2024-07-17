@@ -6,7 +6,7 @@ Superato il portone di ingresso, i quattro avventurieri arrivano al [[Satiro Sor
 
 Esposto nella locanda vediamo il manifesto di un evento che si terrà la sera successiva, ovvero il "Gran concerto del Collegio della musica". A detta di Sorla, è un concerto tenuto dagli insegnanti del Collegio, il quale ogni anno si svolge in un luogo diverso, e quest'anno è toccato alla locanda del satiro sorridente.
 
-Mentre l'oste prende le nostre ordinazioni, ossia, zuppa per [[Padre Solero]], [[Blàfar]] e [[Lionel Cuternitis]], mentre [[Sabine]] chiede della carne cruda che divora avidamente. Il cibo viene accompagnato da birra e vino (richiesto da Lionel che però non sembra apprezzarlo particolarmente e uso la sua Prestiditazione per cambiare il sapore in qualcosa di suo gusto).
+Mentre l'oste prende le nostre ordinazioni, ossia, zuppa per [[Padre Solero]], [[content/PG/Blàfar]] e [[Lionel Cuternitis]], mentre [[content/PG/Sabine]] chiede della carne cruda che divora avidamente. Il cibo viene accompagnato da birra e vino (richiesto da Lionel che però non sembra apprezzarlo particolarmente e uso la sua Prestiditazione per cambiare il sapore in qualcosa di suo gusto).
 
 Durante le ordinazioni, Solero approfitta per chiedere una "bottiglia di liquore nanico antico" in riferimento al [[Messaggio misterioso della coccinella blu]]. Dopo aver chiesto conferma, Sorla porta a Solero una bottiglia verde scuro, contenente del liquido, con una etichetta segnata dal tempo e chiusa da un tappo di cera. Insieme alla bottiglia ci viene consegnato un messaggio che Solero ci permette di leggere ([[Messaggio Taverna Satiro Sorridente]]).
 
