@@ -27,7 +27,7 @@ Ci viene anche mostrata e prestata una mappa della città ([[Mappa di SilveryMoo
 
 - ci sono due scuole di magia:
 	- La [[Volta dei saggi (SilveryMoon)]], scuola per maghi
-	- L' [[Invocazione arcana (Scuola)]], scuola per stregoni
+	- L' [[Invocazione arcana (Scuola per stregoni)]], scuola per stregoni
 - [[Palazzo nella casa degli invincibili]], dove si trova chi detiene il potere della città
 - [[Elmo e martello (fucina)]], dedicata a [[Helm]] e [[Tyr]]
 - [[Gran collegio della musica]]
