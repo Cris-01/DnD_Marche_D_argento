@@ -2,7 +2,7 @@
 
 Data in-game: 3° maggio
 
-[[Lionel Cuternitis]], [[Padre Solero]], [[content/PG/Blàfar]] e [[content/PG/Sabine]], ci troviamo nella [[Casa di Xara nel bosco di SilveryWood]]. Dopo aver scoperto il passaggio segreto sotto il letto decidiamo di mandare [[Pantene (famiglio)]] in esplorazione.
+[[Lionel Cuternitis]], [[Padre Solero]], [[Blàfar]] e [[Sabine]], ci troviamo nella [[Casa di Xara nel bosco di SilveryWood]]. Dopo aver scoperto il passaggio segreto sotto il letto decidiamo di mandare [[Pantene (famiglio)]] in esplorazione.
 Alla fine del corridoio, dietro una porta chiusa che riesce a superare trasformandosi in un piccolo ragno, egli nota una stanza piena di ragnatele, e dei ragni giganti.
 Decidiamo di affrontarli mandando avanti Sabine, seguita da Solero e infine da Lionel e Blafar.
 

@@ -1,4 +1,4 @@
-Inizio: [[Sessione 6]].
+Inizio: [[Sessione 06]].
 Quest giver: divinatore?
 Stato: in corso
 

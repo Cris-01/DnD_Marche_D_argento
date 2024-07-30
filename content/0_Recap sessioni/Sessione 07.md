@@ -19,7 +19,7 @@ Scoprono tuttavia che è possibile pagare un ranger per avere un aiuto nell'espl
 (NOTA: aggiunta sezione elenco attività in [[SilveryMoon (città)]])
 
 Ci riuniamo tutti e quattro alla locanda del [[Satiro Sorridente (locanda)]].
-Chiediamo a [[Sorlar (locandiere del satiro sorridente)]], se conosce [[Emia]], ricordandoci che dobbiamo continuare ad indagare sulla bottiglia ricevuta dalla [[Coccinella Blu (quest Solero)]].
+Chiediamo a [[Sorlar (locandiere del satiro sorridente)]], se conosce [[Emya Wyvernguard]], ricordandoci che dobbiamo continuare ad indagare sulla bottiglia ricevuta dalla [[Coccinella Blu (quest Solero)]].
 Sorlar ci dice che Emia e la sua famiglia hanno un emporio in città ([[Trova tutto (Emporio)]]. 
 
 Dopo pranzo andiamo alla [[Volta dei saggi (SilveryMoon)]] per ottenere l'accesso alla biblioteca magica.
@@ -54,7 +54,7 @@ Blafar tocca il suo anello, si accorge che all'interno della zona anti-magia qua
 Usciamo e, su richiesta di Blàfar, andiamo al [[Caprone Danzante (locanda economica)]] per la cena.
 
 Entrati in locanda Blàfar e Sabine scorgono un halfling intento a giocare a carte con altri ceffi nella locanda. Sembra essere una loro vecchia conoscenza
-([[Scagnozzo halfling di Gaoler]] - [[Trovare Gaoler (quest Blàfar)]])
+([[Todd, Scagnozzo halfling di Gaoler]] - [[Trovare Gaoler (quest Blàfar)]])
 
 
 

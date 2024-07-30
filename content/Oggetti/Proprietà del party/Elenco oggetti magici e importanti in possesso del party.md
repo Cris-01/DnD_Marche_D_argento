@@ -2,18 +2,23 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 
 ### Oggetti magici
 
-- Pozione di cura, Sabine ([[Sessione 2]])
-- Pozione di antiveleno, Solero ([[Sessione 2]])
-- [[Borsa conservante]], Blàfar ([[Sessione 2]])
-- Anello con ametista, Blàfar ([[Sessione 2]])
-- Cristallo donato da [[Padre Klaus]], Solero ([[Sessione 3]])
-- Pergamena della Ragnatela, Lionel ([[Sessione 4]])
-- [[Guanti del ladro - Gloves of Thievery]], Blafar ([[Sessione 4]]) 
-- Libro misterioso cifrato, Lionel ([[Sessione 2]]), magia nascosta da un potente artefatto
+- Pozione di cura, Sabine ([[Sessione 02]])
+- Pozione di antiveleno, Solero ([[Sessione 02]])
+- [[Borsa conservante]], Blàfar ([[Sessione 02]])
+- Anello con ametista, Blàfar ([[Sessione 02]])
+- Cristallo donato da [[Padre Klaus]], Solero ([[Sessione 03]])
+- Pergamena della Ragnatela, Lionel ([[Sessione 04]])
+- [[Guanti del ladro - Gloves of Thievery]], Blafar ([[Sessione 04]]) 
+- Libro misterioso cifrato, Lionel ([[Sessione 02]]), magia nascosta da un potente artefatto
+- Candela di fiamma perenne, Sabine ([[Sessione 09]])
 
 ### Oggetti utili
 
-- Borsa del guaritore, Lionel ([[Sessione 2]])
-- Moneta Eclisse trovata nel combattimento coi banditi fuori da [[SilveryMoon (città)]], Solero ([[Sessione 1]])
-- Attrezzi da scassinatore, Blafar ([[Sessione 5]])
-- Bottiglia con scritta nanica ricevuta dalla Coccinella Blu, Solero ([[Sessione 2]])
+- Borsa del guaritore, Lionel ([[Sessione 02]])
+- Moneta Eclisse trovata nel combattimento coi banditi fuori da [[SilveryMoon (città)]], Solero ([[Sessione 01]])
+- Attrezzi da scassinatore, Blafar ([[Sessione 05]])
+- Bottiglia con scritta nanica ricevuta dalla Coccinella Blu, Solero ([[Sessione 02]])
+- Martello donato da Helios, Sabine ([[Sessione 08]])
+- Piede di porco, Sabine [[Sessione 08]]
+- Opale trovato nel laghetto, Sabine [[Sessione 09]]
+- Due pietre preziose trovate in un baule nella miniera delle farfalle, Blafar [[Sessione 09]]

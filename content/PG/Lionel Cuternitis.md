@@ -9,4 +9,4 @@
 - Famiglio: [[Coral (famiglio)]] serpente
 
 Approfondimenti:
-- [[Sessione 2]] - deve decifrare un libro cifrato lasciatogli da un amico ([[Amico Lionel ---]])
+- [[Sessione 02]] - deve decifrare un libro cifrato lasciatogli da un amico ([[Amico Lionel ---]])

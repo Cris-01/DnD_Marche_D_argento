@@ -6,8 +6,8 @@ Piove. Siamo una locanda dove i boscaioli della carovana a cui ci siamo accodati
 All'interno di questa locanda i quattro avventurieri si incontrano
 
 Abbiamo:
-	- [[content/PG/Blàfar]], un tiefling blu che ha come compagno [[Pantene (famiglio)]] (la macchina omicida perfetta)
-	- [[content/PG/Sabine]], un gigantesco lucertoloide
+	- [[Blàfar]], un tiefling blu che ha come compagno [[Pantene (famiglio)]] (la macchina omicida perfetta)
+	- [[Sabine]], un gigantesco lucertoloide
 	- [[Padre Solero]], un chierico umano molto espansivo
 	- [[Lionel Cuternitis]], un mago umano allergico a quasi tutti gli animali (piume e pelo). Ha un famiglio serpente di nome [[Coral (famiglio)]]
 

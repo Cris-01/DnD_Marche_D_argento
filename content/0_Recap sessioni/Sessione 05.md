@@ -7,7 +7,7 @@ Optiamo per tornare al Satiro Sorridente avendo vitto e alloggio pagato, ma sicc
 
 Lungo la strada perdiamo di vista [[content/PG/Sabine]], che si infila in un tendone viole lungo la strada. Avendola notata all'ultimo Solero la segua per invitarla a prestare attenzione ad eventuali truffatori. Sabine lo rassicura e chiude la tenda congedandosi dal gruppo per seguire le sue faccende.
 
-[[Lionel Cuternitis]], [[content/PG/Blàfar]] e Solero a questo punto continuano per la strada fino ad arrivare al negozio che gli era stato indicato da Xara.
+[[Lionel Cuternitis]], [[Blàfar]] e Solero a questo punto continuano per la strada fino ad arrivare al negozio che gli era stato indicato da Xara.
 Si tratta di un negozio con una porticina, due finestrelle e una semplice insegna con su dipinto il nome "Il goblin meccanico".
 Entriamo, l'interno sembra essere molto più grande; vediamo aggeggi di ogni tipo da tutte le parti (macchinari/utensili).
 

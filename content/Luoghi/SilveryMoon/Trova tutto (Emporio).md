@@ -1,1 +1,1 @@
-Emporio di [[Emia]] e della sua famiglia
+Emporio di [[Emya Wyvernguard]] e della sua famiglia

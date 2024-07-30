@@ -9,7 +9,7 @@ Verso fine giornata, ci siamo trovati tutti al [[Satiro Sorridente (locanda)]] d
 Dopo essere entrata nella tenda, ha ricevuto una divinazione ([[Divinazione delle carte per Sabine]]), rispettivamente foresta, fuoco, distesa d'acqua, farfalle e una carta col bordo d'oro (?) con un suo ritratto realistico. Deve cercare l'[[Orca blu]] a [[Quaervarr (città)]] e avrebbe 26 giorni per cercarla (quindi entro la fine del mese di maggio?).
 Oltre a questo, racconta di dover cercare il suo vecchio maestro satiro ([[Maestro satiro di Sabine]]). 
 
-Nella stessa cena, Bláfar confida a Padre Solero che il motivo per cui la sua famiglia ([[Anondein e Stuer (genitori Blàfar)]]) ha ingaggiato Sabine, è per via di un mercante di nome [[Gaoler, rapitore Blàfar]] che ha cercato di rapirlo di notte con il suo [[Scagnozzo halfling di Gaoler]] e lui li sta cercando in modo discreto.
+Nella stessa cena, Bláfar confida a Padre Solero che il motivo per cui la sua famiglia ([[Anondein e Stuer (genitori Blàfar)]]) ha ingaggiato Sabine, è per via di un mercante di nome [[Gaoler, rapitore Blàfar]] che ha cercato di rapirlo di notte con il suo [[Todd, Scagnozzo halfling di Gaoler]] e lui li sta cercando in modo discreto.
 
 L'indomani, dopo la visione in tanga di Padre Solero, per l'ennesima volta, ci siamo divisi in due gruppi per la mattinata dandoci appuntamento a pranzo in taverna. 
 

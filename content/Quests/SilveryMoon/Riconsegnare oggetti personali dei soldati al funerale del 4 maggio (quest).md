@@ -1,4 +1,4 @@
-Inizio: [[Sessione 3]]
+Inizio: [[Sessione 03]]
 Quest giver: [[Tenente Bricks]]
 Stato: in corso
 

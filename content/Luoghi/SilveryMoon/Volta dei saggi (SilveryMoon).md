@@ -1,6 +1,6 @@
 Scuola di magia.
 
-[[Sessione 3]]
+[[Sessione 03]]
 
 Dipendenti: 
 - [[Nelie (dipendente della Volta dei saggi)]]

@@ -1,4 +1,4 @@
-Inizio: [[Sessione 2]].
+Inizio: [[Sessione 02]].
 Quest giver: [[Helios Opyum, fabbro]]
 Stato: in corso
 
