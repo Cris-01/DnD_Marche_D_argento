@@ -22,3 +22,5 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - Piede di porco, Sabine [[Sessione 08]]
 - Opale trovato nel laghetto, Sabine [[Sessione 09]]
 - Due pietre preziose trovate in un baule nella miniera delle farfalle, Blafar [[Sessione 09]]
+- Libro di pelle di serpente, Lionel ([[Sessione 10]])
+- 4 opali, borsa conservante/Blafar ([[Sessione 09]]/[[Sessione 10]])

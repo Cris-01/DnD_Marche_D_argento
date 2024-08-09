@@ -15,3 +15,5 @@ Approfondimenti:
 - [[Sessione 06]] - Ingaggiata dai genitori [[Blàfar]] per proteggerlo ([[Lionel Cuternitis]] non lo sa)
 - [[Sessione 08]] - Sogno
 	- Sfondo bianco, farfalle (blue a macchie rosse) che svolazzano per poi dissolversi in cenere
+- [[Sessione 10]] - Sogno 2
+	- Altre farfalle blue, una dispiega le ali si e dissolve come ghiaccio
