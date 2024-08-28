@@ -11,6 +11,7 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - [[Guanti del ladro - Gloves of Thievery]], Blafar ([[Sessione 04]]) 
 - Libro misterioso cifrato, Lionel ([[Sessione 02]]), magia nascosta da un potente artefatto
 - Candela di fiamma perenne, Sabine ([[Sessione 09]])
+- [[Diario di Nodio (libro in pelle di serpente)]], Lionel ([[Sessione 10]])([[Sessione 11]])
 
 ### Oggetti utili
 
@@ -22,5 +23,7 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - Piede di porco, Sabine [[Sessione 08]]
 - Opale trovato nel laghetto, Sabine [[Sessione 09]]
 - Due pietre preziose trovate in un baule nella miniera delle farfalle, Blafar [[Sessione 09]]
-- Libro di pelle di serpente, Lionel ([[Sessione 10]])
-- 4 opali, borsa conservante/Blafar ([[Sessione 09]]/[[Sessione 10]])
+- vari opali, borsa conservante/Blafar ([[Sessione 09]]/[[Sessione 10]])
+- Libricino di aforismi nanici, Lionel ([[Sessione 10]])
+- statuetta di un leone, presa da Lionel, [[Sessione 11]]
+- 7 monete d'oro, Solero, [[Sessione 11]]

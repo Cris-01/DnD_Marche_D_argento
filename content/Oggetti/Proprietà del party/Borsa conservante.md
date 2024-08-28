@@ -4,3 +4,17 @@ This bag has an interior space considerably larger than its outside dimensions, 
 If the bag is overloaded, pierced, or torn, it ruptures and is destroyed, and its contents are scattered in the [Astral Plane](https://roll20.net/compendium/dnd5e/Lore:The%20Planes%20of%20Existence?expansion=0#toc_4). If the bag is turned inside out, its contents spill forth, unharmed, but the bag must be put right before it can be used again. Breathing creatures inside the bag can survive up to a number of minutes equal to 10 divided by the number of creatures (minimum 1 minute), after which time they begin to [suffocate](https://roll20.net/compendium/dnd5e/Rules:The%20Environment?expansion=0#toc_2).  
   
 Placing a _bag of holding_ inside an extradimensional space created by a _[handy haversack](https://roll20.net/compendium/dnd5e/Handy%20Haversack?expansion=0#content)_, [_portable hole_](https://roll20.net/compendium/dnd5e/Portable%20Hole?expansion=0#content), or similar item instantly destroys both items and opens a gate to the Astral Plane. The gate originates where the one item was placed inside the other. Any creature within 10 feet of the gate is sucked through it to a random location on the Astral Plane. The gate then closes. The gate is one-way only and can't be reopened.
+
+
+- Contenuto attuale:
+	1. Fagotto bracciale cuoio con simbolo lucchetto (sintonia, competenza attrezzi da scasso);
+	2. Martello;
+	3. Chiodi da rocciatore x10;
+	4. Torcia x10;
+	5. Acciarino e pietra focaia;
+	6. Razioni x10;
+	7. Otre;
+	8. Strumenti da navigatore;
+	9. Diario personale scritto in infernale
+	10. Opali grezzi miniera x2
+	11. Opali misti meno pregiati x6

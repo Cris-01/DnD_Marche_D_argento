@@ -3,12 +3,12 @@
 Data in-game: 5°-6° maggio
 
 Siamo ancora davanti a [[Thud (nano nella miniera)]]. [[Lionel Cuternitis]] cerca di convincerlo a lasciare la mia ma non ci riesce.
-[[Padre Solero]] nota che un rugginafo si sta avvicando a loro arrivando da dietro e che sembra attirato dalla sua armatura.
+[[Padre Solero]] nota che un rugginofago si sta avvicando a loro arrivando da dietro e che sembra attirato dalla sua armatura.
 Per distrarlo o non doverlo uccidere decide di lasciare a terra la sua mazza, visto che Thud non sembra poterlo o volerlo richiamare.
 Lionel e [[Sabine]] cercando di prendere Thud di forza e portarlo fuori dalla miniera.
-Betsy, la rugginafaga gigante insieme ad un altro rugginofago non la prende bene e cerca di salvarlo. Ne esce fuori un combattimento in cui decidiamo di uccidere i rugginafagi ma evitiamo di ferire Thud, che nel mentre scopriamo può trasformarsi in un cinghiale gigante.
+Betsy, la rugginofaga gigante insieme ad un altro rugginofago non la prende bene e cerca di salvarlo. Ne esce fuori un combattimento in cui decidiamo di uccidere i rugginofagi ma evitiamo di ferire Thud, che nel mentre scopriamo può trasformarsi in un cinghiale gigante.
 
-Morti i rugginagi Thud ne è rattristato ma accetta di seguirci.
+Morti i rugginofagi Thud ne è rattristato ma accetta di seguirci.
 Nell'esplorare la miniera, Solero, trova un libricino che, ispezionato da Lionel, e rivestito da una copertina in pelle di serpente e contiene varie formule magiche che però sono difficili da decifrare.
 Oltre al libro ci sono 8 bottiglie del liquido bevuto da Thud che Solero dona al nano.
 Troviamo anche un cucciolo di rugginofago che lasciamo tenere a Thud.
