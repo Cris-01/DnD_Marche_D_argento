@@ -21,9 +21,10 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - Bottiglia con scritta nanica ricevuta dalla Coccinella Blu, Solero ([[Sessione 02]])
 - Martello donato da Helios, Sabine ([[Sessione 08]])
 - Piede di porco, Sabine [[Sessione 08]]
-- Opale trovato nel laghetto, Sabine [[Sessione 09]]
-- Due pietre preziose trovate in un baule nella miniera delle farfalle, Blafar [[Sessione 09]]
-- vari opali, borsa conservante/Blafar ([[Sessione 09]]/[[Sessione 10]])
+- ~~Opale trovato nel laghetto, Sabine [[Sessione 09]]~~ , venduto ([[Sessione 12]])
+- ~~Due pietre preziose trovate in un baule nella miniera delle farfalle, Blafar [[Sessione 09]],~~ vendute ([[Sessione 12]])
+- ~~vari opali, borsa conservante/Blafar ([[Sessione 09]]/[[Sessione 10]])~~ VENDUTI
 - Libricino di aforismi nanici, Lionel ([[Sessione 10]])
 - statuetta di un leone, presa da Lionel, [[Sessione 11]]
-- 7 monete d'oro, Solero, [[Sessione 11]]
+- ~~7 monete d'oro, Solero, [[Sessione 11]]~~ (spartiti successivamente [[Sessione 12]]) 
+- 

@@ -28,7 +28,7 @@ Ci viene anche mostrata e prestata una mappa della città ([[Mappa di SilveryMoo
 - ci sono due scuole di magia:
 	- La [[Volta dei saggi (SilveryMoon)]], scuola per maghi
 	- L' [[Invocazione arcana (Scuola per stregoni)]], scuola per stregoni
-- [[Palazzo nella casa degli invincibili]], dove si trova chi detiene il potere della città
+- [[Casa degli invincibili (palazzo)]], dove si trova chi detiene il potere della città
 - [[Elmo e martello (fucina)]], dedicata a [[Helm]] e [[Tyr]]
 - [[Gran collegio della musica]]
 - Corte delle corporazioni nella grande piazza
@@ -46,7 +46,7 @@ Bràfal, mentre noi stiamo dormendo, parla con qualche strana entità (accenni a
 
 Il mattino seguente ci svegliamo e iniziamo i rituali mattutini. Solero, che ha scelto un letto vicino alla finestra che punta ad est, recita le sue preghiere giornaliere (in tanga). Lionel evoca tramite un rituale di qualche minuto il suo servitore invisibile per rifare il letto e dare una sistemata alla stanza.
 
-Scesi per far colazione troviamo ad attenderci alcune guardie che, a quanto pare, hanno ricevuto il compito di scortarci fino al [[Palazzo nella casa degli invincibili]], una volta finita la colazione.
+Scesi per far colazione troviamo ad attenderci alcune guardie che, a quanto pare, hanno ricevuto il compito di scortarci fino al [[Casa degli invincibili (palazzo)]], una volta finita la colazione.
 Prima di concludere la colazione in locanda, Solero approfitta per recitare la sua parabola mattutina ai presenti, la quale è incentrata sul parlare dell'altro nome con cui è conosciuto [[Lathander]], ovvero Amaunator. 
 
 Decidiamo di seguire i soldati di buon grado, ed essi ci scortano lungo le strade della città, le quali sono piene di persone, molte delle quali sono elfi e mezz'elfi.

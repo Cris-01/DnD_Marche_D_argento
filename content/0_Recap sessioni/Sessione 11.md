@@ -15,7 +15,7 @@ Non si sentono rumori provenire dalle stanze vicine
 Lionel sembra aver sentito un strano sibilo ma pare l'unico a poterlo sentire.
 
 Esplorando l'interno di alcune stanze, i quattro i scontrano con alcuni esseri che ricordano dei grossi vermi che tentano di aggrapparsi a chi gli sta vicino per divorarli.
-Blàfar ci fa notare che dovrebbe essere creature presenti nello Shadowfell.
+Blàfar nel riconoscere le creature sussurra "Shadowfell", ma non dice niente al riguardo.
 
 Sembra che alcune magie non funzionino normalmente. Blafar non riesce ad evocare [[Pantene (famiglio)]], tuttavia Lionel riesce ad evocare [[Coral (famiglio)]] la quale rimane al suo fianco (sulle sue spalle) per il resto dell'avventura.
 

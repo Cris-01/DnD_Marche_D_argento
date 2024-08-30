@@ -25,7 +25,7 @@ Interroghiamo Todd. Scopriamo che [[Gaoler, rapitore Blàfar]] pare sia stato ar
 
 Blafar ci racconta che Gaoler si era fissato con la madre di Blafar e per attirarla a se ha provato a rapire Blafar non riuscendoci.
 
-Per avere conferma, Todd ci informa che possiamo controllare la condanna nel registro presente nel [[Palazzo nella casa degli invincibili]].
+Per avere conferma, Todd ci informa che possiamo controllare la condanna nel registro presente nel [[Casa degli invincibili (palazzo)]].
 
 Lasciamo libero Todd. Egli si allontana andando a parlare con le guardie poco distanti.
 Blafar invia [[Pantene (famiglio)]] a tenere d'occhio Todd che più avanti va a rifugiarsi all'interno di un edificio.
@@ -46,7 +46,7 @@ La famiglia tuttavia era gente semplice e poco istruita e capi male il suo nome 
 -------
 Fatta colazione, Lionel e Solero si dirigono da Helios per avere alcune informazioni in più sulla [[Miniera delle farfalle (quest)]].
 
-Sabine e Blafar si dirigono verso la [[Palazzo nella casa degli invincibili]] per confermare l'esecuzione di Galeor.
+Sabine e Blafar si dirigono verso la [[Casa degli invincibili (palazzo)]] per confermare l'esecuzione di Galeor.
 
 Arrivati da Helios, chiediamo come trovare l'ingresso della miniera ed [[Helios Opyum, fabbro]] ci consiglia di seguire le farfalle. Ci regala un martello.
 

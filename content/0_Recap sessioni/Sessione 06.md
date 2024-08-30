@@ -2,7 +2,7 @@
 
 Data in-game: 3-4° maggio
 
-Mentre [[Lionel Cuternitis]] sta ricopiando le mappe a la [[Una manciata di stelle (negozio cartografia)]] e [[Padre Solero]] e [[Blàfar]] hanno dato una mano nel magazzino di [[Theoden Burrowstone, capogilda dei mercanti]], [[content/PG/Sabine|Sabine]] si è diretta alla [[Palazzo nella casa degli invincibili]] per potersi allenare con i membri della Guardia Cittadina e i membri della Legione d'Argento per scaricare la tensione, dove ha dato botte e le ha anche prese.
+Mentre [[Lionel Cuternitis]] sta ricopiando le mappe a la [[Una manciata di stelle (negozio cartografia)]] e [[Padre Solero]] e [[Blàfar]] hanno dato una mano nel magazzino di [[Theoden Burrowstone, capogilda dei mercanti]], [[content/PG/Sabine|Sabine]] si è diretta alla [[Casa degli invincibili (palazzo)]] per potersi allenare con i membri della Guardia Cittadina e i membri della Legione d'Argento per scaricare la tensione, dove ha dato botte e le ha anche prese.
 
 Verso fine giornata, ci siamo trovati tutti al [[Satiro Sorridente (locanda)]] dove abbiamo chiesto a Sabine dove fosse sparita (mentre Lionel era in camera a dormire). 
 

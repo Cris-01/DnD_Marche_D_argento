@@ -45,7 +45,7 @@ Ci addormentiamo tutti tranne Blàfar che conversa col suo anello con ametista.
 
 Mattina del 3 maggio.
 Soliti rituali mattutini.
-Andiamo velocemente al [[Palazzo nella casa degli invincibili]] perché Solero si è dimenticato di consegnare gli effetti personali delle guardie morte durante l'attacco fuori dalla città a cui abbiamo fatto il funerale. Parliamo col [[Tenente Bricks]], ma egli ci dice di consegnarli direttamente ai famigliari durante i veri funerali che si terranno l'indomani. ([[Riconsegnare oggetti personali dei soldati al funerale del 4 maggio (quest)]]).
+Andiamo velocemente al [[Casa degli invincibili (palazzo)]] perché Solero si è dimenticato di consegnare gli effetti personali delle guardie morte durante l'attacco fuori dalla città a cui abbiamo fatto il funerale. Parliamo col [[Tenente Bricks]], ma egli ci dice di consegnarli direttamente ai famigliari durante i veri funerali che si terranno l'indomani. ([[Riconsegnare oggetti personali dei soldati al funerale del 4 maggio (quest)]]).
 Prima che ci allontaniamo troppo il tenente Bricks chiama a se Sabine per dirle qualcosa ma noi siamo troppo lontani per sentire. 
 
 Solero ci narra la seconda parte della parabola su Lathander.
