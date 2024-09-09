@@ -2,6 +2,7 @@
 # Sezioni
 
 - Recap sessioni - [[Sessione 01]]
+- Minimal recap - [[01 minRecap]]
 - Luoghi - [[SilveryMoon (città)]]
 - NPC - [[Mike Harming]]
 - Oggetti - [[Elenco oggetti magici e importanti in possesso del party]]

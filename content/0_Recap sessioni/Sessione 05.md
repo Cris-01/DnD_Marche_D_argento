@@ -5,7 +5,7 @@ Data in-game: 3° maggio
 Usciti dal negozio di [[Xara Tantlor, arcanista]], [[Padre Solero]] ferma un passante (elfa) per chiedere dove poter pranzare. Ci viene indicata la locanda [[La Stangata (locanda costosa)]], (non la consideriamo sapendo che è molto costosa), il [[Satiro Sorridente (locanda)]] (che già conosciamo), e il "caprone danzante".
 Optiamo per tornare al Satiro Sorridente avendo vitto e alloggio pagato, ma siccome il negozio del [[Il goblin meccanico (invenzioni)]] e molto vicino decidiamo di passare prima li.
 
-Lungo la strada perdiamo di vista [[content/PG/Sabine]], che si infila in un tendone viole lungo la strada. Avendola notata all'ultimo Solero la segua per invitarla a prestare attenzione ad eventuali truffatori. Sabine lo rassicura e chiude la tenda congedandosi dal gruppo per seguire le sue faccende.
+Lungo la strada perdiamo di vista [[Sabine]], che si infila in un tendone viole lungo la strada. Avendola notata all'ultimo Solero la segua per invitarla a prestare attenzione ad eventuali truffatori. Sabine lo rassicura e chiude la tenda congedandosi dal gruppo per seguire le sue faccende.
 
 [[Lionel Cuternitis]], [[Blàfar]] e Solero a questo punto continuano per la strada fino ad arrivare al negozio che gli era stato indicato da Xara.
 Si tratta di un negozio con una porticina, due finestrelle e una semplice insegna con su dipinto il nome "Il goblin meccanico".

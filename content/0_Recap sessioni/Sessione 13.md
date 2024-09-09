@@ -6,13 +6,13 @@ Giocatori: [[Lionel Cuternitis]], [[Padre Solero]], [[Blàfar]], [[Sabine]]
 
 I quattro entrano nel [[Gran collegio della musica]].
 Mentre camminano, Lionel chiede approfondimenti sulla famiglia di Solero, visto che ne aveva accennato nel parlare con [[Cantagallo]].
-Solero rivela che in gioventù è cresciuto con la sua famiglia, la quale faceva parte di un circo itinerante, i suoi genitori ne erano i fondatori (*Compagnia del mattino*).
+Solero rivela che in gioventù è cresciuto con la sua famiglia, la quale faceva parte di un circo itinerante, i suoi genitori ne erano i fondatori (*Compagnia du Soleil*).
 Ad un certo punto Solero ha trovato la fede in [[Lathander]] grazie a [[Padre Klaus]] e da allora si è dato alla religione piuttosto che alla musica e agli spettacoli, ma da quella esperienza ha appreso le sue abilità da intrattenitore.
 
 Entrando nell'edificio, cerchiamo subito il preside [[Amos Witt (preside del Collegio della musica)]]. Non ci mettiamo troppo a scorgerlo e intavoliamo con lui una lunga conversazione passeggiando fuori.
 
 Ci chiediamo chi siamo e, dopo un po' di modestia iniziale da parte di Solero, Lionel si prodiga nel far sapere che siamo degli avventurieri che hanno già aiutato alcuni nobili della città appena siamo arrivati, sconfiggendo dei banditi. Al che Amos pare subito collegare gli eventi e rimane rapito da noi, sperando di poter trarre ispirazione dalle nostre gesta future.
-Ci dice che potrebbe mandare qualcuno del collegio alla nostra locanda ogni mattina per chiedere aggiornamenti sulle nostre future avventure. Non avendo ancora in mente chi mandare, rimaniamo che avrebbe mandato qualcuno che si annuncerà con una certa parola d'ordine (ho dimenticato quale :P, help please)
+Ci dice che potrebbe mandare qualcuno del collegio alla nostra locanda ogni mattina per chiedere aggiornamenti sulle nostre future avventure. Non avendo ancora in mente chi mandare, rimaniamo che avrebbe mandato qualcuno che si annuncerà con una certa parola d'ordine ("Al tramonto")
 
 Noi gli facciamo molte domande sulle nostre rispettive ricerche:
 - (libro cifrati da artefatti [[Decifrare libro misterioso (quest Lionel)]]
@@ -28,7 +28,7 @@ In città c'è una piccola faida tra due gruppi mercantili:
 - [[Theoden Burrowstone, capogilda dei mercanti]], [[Burrostone Trades]]
 - [[Peter Harming]], famiglia Harming
 A quanto pare Burrowstone è in testa, avendo il monopolio sul commercio via fiume.
-Mentre Harming ha il controllo del commercio via terra ma il quale ha subito un rallentamento a causa delle difficoltà che ora la [[Legione d'Argento (fazione)]]. Peter Harming, sembra però essersi aspettato questo sviluppo, e ha deciso di concentrare le sue attenzioni sulla politica cittadina per rafforzare la sua posizione.
+Mentre Harming ha il controllo del commercio via terra ma il quale ha subito un rallentamento a causa delle difficoltà che ora la [[Legione d'Argento (fazione)]] (approfondimento nel gossip 2). Peter Harming, sembra però essersi aspettato questo sviluppo, e ha deciso di concentrare le sue attenzioni sulla politica cittadina per rafforzare la sua posizione.
 
 #### 2° gossip (legione d'argento)
 
@@ -43,6 +43,7 @@ Nessuno torno, tranne il cavallo di Ernest, il quale riportò, conficcata su una
 
 Dopo la morte del fratello, è stato Sernius a succedergli a capo della Legione, che dopo questo evento è molto cambiata e cerca di rimanere più unita, più cauta, evitando di disperdersi sul territorio.
 A volte assumono mercenari per alcuni lavori pericolosi.
+Questo metodo più conservativo ha portato ad una minore copertura nei tratti di strada intorno alla regione che risultano meno sicuro e con un maggior numero di attacchi di banditi. Il commercio via terra ne ha ovviamente risentito
 
 NOTA: Blàfar chiede notizie su elementali ma non ottiene informazioni utili
 
@@ -110,7 +111,7 @@ Questo però vuole anche dire che la volta che si è illuminato nella stanza all
 
 Questo vuole anche dire che, in qualche modo, Padre Klaus, era venuto in possesso del cristallo senza esso perdesse le sue proprietà e lo ha passato a Solero. Il fatto strano è che Fiona conosce l'ubicazione di tutti i cristalli di SilveryMoon e che questo specifico cristallo non dovrebbe esistere. Questo porta a pensare che c'è una enorme falla nella sicurezza della sua organizzazione e ci invita ad essere prudenti e di trovare sia Padre Klaus che questa Coccinella Blu, in modo che lei possa sapere cosa sta succedendo.
 
-NOTA: veniamo anche a sapere che "[[L'Alleanza dei Lord (fazione)]]" vorrebbe che SilveryMoon si unisse a loro, ma la città sembra essere refrettaria a farlo (sentendosi già abbastanza forte da sola) e attualmente la decisione dovrà essere presa del Consiglio Cittadino.
+NOTA: veniamo anche a sapere che "[[L'Alleanza dei Lord (fazione) 1]]" vorrebbe che SilveryMoon si unisse a loro, ma la città sembra essere refrettaria a farlo (sentendosi già abbastanza forte da sola) e attualmente la decisione dovrà essere presa del Consiglio Cittadino.
 
 NOTA2: il giorno successivo pensiamo di partire per recuperare il libro che ci ha richiesto [[Xara Tantlor, arcanista]] ([[Recupare il libro dalla montagna (quest)]])
 
