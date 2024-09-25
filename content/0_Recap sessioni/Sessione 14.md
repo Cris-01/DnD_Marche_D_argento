@@ -1,6 +1,6 @@
-( Data: 01/09/2024 )
+( Data: 12/09/2024 )
 
-Data in-game: 7°-8° maggio
+Data in-game: 7°-8°-9° maggio
 
 Giocatori: [[Lionel Cuternitis]], [[Padre Solero]], [[Blàfar]], [[Sabine]]
 
