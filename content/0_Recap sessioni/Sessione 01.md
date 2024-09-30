@@ -14,7 +14,7 @@ Abbiamo:
 Il gruppo di avventurieri scambiano qualche parola durante il viaggio e scoprono che sono tutti diretti a [[SilveryMoon (città)]] per vari motivi.
 
 Durante il viaggio un boscaiolo si avvicina a Lionel avendo saputo che ha un famiglio serpente e attacca bottone. 
-A quanto pare suo figlio è stato accettato alla scuola di magia "La volta dei saggi", nella succursale di [[Auvandell (villaggio)]]. Lionel si congratula con l'uomo, e gli augura che suo figlio possa un giorno rientrare nella scuola principale con sede a SilveryMoon (come l'uomo spera ardentemente). Gli racconta che lui non ha avuto modo di studiare presso una scuola ma ha imparato come apprendista di un mago itinerante.
+A quanto pare suo figlio è stato accettato alla scuola di magia "La volta dei saggi", nella succursale di [[Auvandell (città)]]. Lionel si congratula con l'uomo, e gli augura che suo figlio possa un giorno rientrare nella scuola principale con sede a SilveryMoon (come l'uomo spera ardentemente). Gli racconta che lui non ha avuto modo di studiare presso una scuola ma ha imparato come apprendista di un mago itinerante.
 
 Salutata la carovana una volta arrivati ad un bivio, si avviano insieme verso la città.
 Durante la notte hanno scoperto un po' di più su di loro.

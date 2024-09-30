@@ -7,7 +7,7 @@ Gruppo si separa.
 Lionel e Solero vanno alla [[Volta dei saggi (SilveryMoon)]]
 Blafar e Sabine va a [[Burrostone Trades]], capo, [[Theoden Burrowstone, capogilda dei mercanti]]
 
-Blafar si presenta, aspirante mercante figlio d'arte; suoi genitori [[Anondein e Stuer (genitori Blàfar)]], che si trovano ad [[Auvandell (villaggio)]]. 
+Blafar si presenta, aspirante mercante figlio d'arte; suoi genitori [[Anondein e Stuer (genitori Blàfar)]], che si trovano ad [[Auvandell (città)]]. 
 Chiede di iniziare apprendistato. Incontro [[Faina]] aiutante di Burrowstone.
 Inizio quest [[Apprendistato presso Burrowstone (quest Blàfar)]], primo step parlare con [[Mos (caposquadre Burrowstone)]]
 

@@ -9,7 +9,7 @@ a fine giornata, ci siamo trovati tutti al [[Satiro Sorridente (locanda)]]
 
 Sabina ha ricevuto una divinazione ([[Divinazione delle carte per Sabine]])
 Deve cercare l'[[Orca blu]] a [[Quaervarr (città)]] entro fine mese
-Oltre a questo, racconta di dover cercare il suo vecchio maestro satiro ([[Maestro satiro di Sabine]]). 
+Oltre a questo, racconta di dover cercare il suo vecchio maestro satiro ([[Gramsh, Maestro satiro di Sabine]]). 
 
 Bláfar confida a Padre Solero che il motivo per cui la sua famiglia ([[Anondein e Stuer (genitori Blàfar)]]) ha ingaggiato Sabine, è per via di un mercante di nome [[Gaoler, rapitore Blàfar]] che ha cercato di rapirlo di notte con il suo [[Todd, Scagnozzo halfling di Gaoler]] e lui li sta cercando in modo discreto.
 

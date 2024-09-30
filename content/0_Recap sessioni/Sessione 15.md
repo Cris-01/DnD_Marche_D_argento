@@ -1,6 +1,6 @@
 ( Data: 22/09/2024 )
 
-Data in-game: 9° maggio
+Data in-game: 8° maggio
 
 Giocatori: [[Lionel Cuternitis]], [[Padre Solero]], [[Blàfar]], [[Sabine]]
 
@@ -20,6 +20,8 @@ Solero rischia la vita, essendo stato atterrato mentre Lionel era troppo spavent
 Blafar avvicina il corpo di Solero a Lionel per dargli modo di curarlo mentre Sabine tiene occupato l'Ogre che alla fine viene sconfitto.
 NOTA: l'Ogre teneva legata al braccio una pergamena
 
+NOTA:2 Carcassa è scappato durante il combattimento
+
 Ispezionando la stanza e troviamo vari oggetti.
 Durante un breve riposo, ispezioniamo gli oggetti:
 NOTA: le due boccette precedentemente trovate erano pozioni di guarigione
@@ -30,5 +32,7 @@ NOTA: le due boccette precedentemente trovate erano pozioni di guarigione
 - pergamena (altro pezzo di mappa come quello dato da [[Xara Tantlor, arcanista]], stesso autore)
 
 Aggiornamento [[Elenco oggetti magici e importanti in possesso del party]]
+
+Solero usa la sfera per recuperare potere divino (i 2 slot al momento presenti nella sfera)
 
 Alla fine del riposo, i 4 si addentrano di più nella caverna.

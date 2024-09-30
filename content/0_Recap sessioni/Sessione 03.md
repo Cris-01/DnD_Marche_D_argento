@@ -12,7 +12,7 @@ Arrivati al molo, Sabine e Blàfar vedono un grosso capannone con la scritta "[[
 Sabine decide di rimane fuori capendo che la conversazione sarebbe stata noiosa per lei.
 Blàfar, una volta entrato nell'edificio e salite le scale, trova l'ufficio del capogilda.
 Il signor BurrowStone, si presenta con un uomo molto robusto, pelato, mento pronunciato e vestito elegantemente.
-Blàfar gli si presenta dicendogli di essere un'aspirante mercante e di aver imparato le basi del mestiere dai suoi genitori [[Anondein e Stuer (genitori Blàfar)]], che si trovano ad [[Auvandell (villaggio)]]. Dopo essersi presentato, chiede di poter fare esperienza come mercante e chiede l'aiuto del signor BurrowStone in merito.
+Blàfar gli si presenta dicendogli di essere un'aspirante mercante e di aver imparato le basi del mestiere dai suoi genitori [[Anondein e Stuer (genitori Blàfar)]], che si trovano ad [[Auvandell (città)]]. Dopo essersi presentato, chiede di poter fare esperienza come mercante e chiede l'aiuto del signor BurrowStone in merito.
 Burrowstone chiama nel suo ufficio un uomo basso e mingherlino detto [[Faina]]. Il nuovo arrivato viene incaricato di presentare Blàfar al caposquadre [[Mos (caposquadre Burrowstone)]].
 Mos si occuperà di far svolgere a Blàfar qualche primo lavoro di manovalanza, per fargli fare un po' di gavetta. Può cominciare quando vuole. Faina prende nota di dove alloggia Blàfar, ovvero il [[Satiro Sorridente (locanda)]].
 Prima di lasciare l'ufficio di Burrowstone, quest'ultimo commenta, mostrando ai presenti una mappa abbozzata delle marche d'argento, che lui non fa banali commerci con le vicine città ma preferisce far affari con la costa della spada. Molto più pericoloso ma molto più remunerativo.

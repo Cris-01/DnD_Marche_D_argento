@@ -13,7 +13,8 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - Candela di fiamma perenne, Sabine ([[Sessione 09]])
 - [[Diario di Nodio (libro in pelle di serpente)]], Lionel ([[Sessione 10]])([[Sessione 11]])
 - 2 pozioni di cura ([[Sessione 15]])
-- sfera (perla del potere modificata, slot randomici recuperabili) ([[Sessione 15]]) 
+- [[Perla del potere modificata]] (ametista) (slot randomici recuperabili) ([[Sessione 15]]) 
+- [[Fiore del Destino o Cucciolo del destino]] ([[Sessione 15]]/[[Sessione 16]])
 
 ### Oggetti utili
 
@@ -25,9 +26,9 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - Piede di porco, Sabine [[Sessione 08]]
 - Libricino di aforismi nanici, Lionel ([[Sessione 10]])
 - statuetta di un leone, presa da Lionel, ([[Sessione 11]])
-- borsello con 28 argento, 6 oro, 47 rame +  52 oro, 4 platino ([[Sessione 15]])
-- chiave con punta lisca (possibilità di aprire una qualche serratura) ([[Sessione 15]])
-- statuina di rame di un soldatino con lancia ([[Sessione 15]])
+- pergamena con mappa data [[Xara Tantlor, arcanista]] per quest ([[Recupare il libro dalla montagna (quest)]]), Lionel ([[Sessione 12]])
+- chiave con punta lisca (possibilità di aprire una qualche serratura), Lionel ([[Sessione 15]])
+- statuina di rame di un soldatino con lancia, Lionel ([[Sessione 15]])
 - pergamena (altro pezzo di mappa come quello dato da [[Xara Tantlor, arcanista]], stesso autore) ([[Sessione 15]])
 
 
@@ -37,3 +38,4 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - Due pietre preziose trovate in un baule nella miniera delle farfalle, Blafar [[Sessione 09]], vendute ([[Sessione 12]])
  - vari opali, borsa conservante/Blafar ([[Sessione 09]]/[[Sessione 10]]) VENDUTI
  - 7 monete d'oro, Solero, [[Sessione 11]] (spartiti successivamente [[Sessione 12]]) 
+ - borsello con 28 argento, 6 oro, 47 rame +  52 oro, 4 platino ([[Sessione 15]]), SPARTITI

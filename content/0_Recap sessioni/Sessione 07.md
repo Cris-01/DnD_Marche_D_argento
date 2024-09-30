@@ -29,7 +29,7 @@ Dopo un breve colloquio con Skilbar riusciamo ad ottenere anche noi i permessi p
 Dati forniti:
 - Padre Solero, arrivato da [[Sundabar (città)]]
 - Lionel Cuternitis, arrivato da Sundabar
-- Blafar, arrivato da [[Auvandell (villaggio)]]
+- Blafar, arrivato da [[Auvandell (città)]]
 - Sabine (S481-N3), (anche lei Auvandell?)
 
 Il permesso è da richiedere per il primo accesso dopodiché si può accedere liberamente alla biblioteca pagando alla bisogna, cioè 2 scudi/monete d'argento al giorno più eventuali sovrapprezzi per l'accesso a libri della sezione magica in base all'antichità del tomo (10gp ogni 25 anni di antichità) 

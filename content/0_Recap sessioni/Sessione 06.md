@@ -7,7 +7,7 @@ Mentre [[Lionel Cuternitis]] sta ricopiando le mappe a la [[Una manciata di stel
 Verso fine giornata, ci siamo trovati tutti al [[Satiro Sorridente (locanda)]] dove abbiamo chiesto a Sabine dove fosse sparita (mentre Lionel era in camera a dormire). 
 
 Dopo essere entrata nella tenda, ha ricevuto una divinazione ([[Divinazione delle carte per Sabine]]), rispettivamente foresta, fuoco, distesa d'acqua, farfalle e una carta col bordo d'oro (?) con un suo ritratto realistico. Deve cercare l'[[Orca blu]] a [[Quaervarr (città)]] e avrebbe 26 giorni per cercarla (quindi entro la fine del mese di maggio?).
-Oltre a questo, racconta di dover cercare il suo vecchio maestro satiro ([[Maestro satiro di Sabine]]). 
+Oltre a questo, racconta di dover cercare il suo vecchio maestro satiro ([[Gramsh, Maestro satiro di Sabine]]). 
 
 Nella stessa cena, Bláfar confida a Padre Solero che il motivo per cui la sua famiglia ([[Anondein e Stuer (genitori Blàfar)]]) ha ingaggiato Sabine, è per via di un mercante di nome [[Gaoler, rapitore Blàfar]] che ha cercato di rapirlo di notte con il suo [[Todd, Scagnozzo halfling di Gaoler]] e lui li sta cercando in modo discreto.
 

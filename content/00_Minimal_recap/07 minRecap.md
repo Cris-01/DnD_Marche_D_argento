@@ -25,7 +25,7 @@ Parliamo con [[Skilbar (bibliotecario, Volta dei saggi)]]. Diamo generalità e o
 Dati forniti:
 - Padre Solero, arrivato da [[Sundabar (città)]]
 - Lionel Cuternitis, arrivato da Sundabar
-- Blafar, arrivato da [[Auvandell (villaggio)]]
+- Blafar, arrivato da [[Auvandell (città)]]
 - Sabine (S481-N3), (anche lei Auvandell?)
 
 
