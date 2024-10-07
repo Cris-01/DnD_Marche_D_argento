@@ -15,6 +15,7 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - 2 pozioni di cura ([[Sessione 15]])
 - [[Perla del potere modificata]] (ametista) (slot randomici recuperabili) ([[Sessione 15]]) 
 - [[Fiore del Destino o Cucciolo del destino]] ([[Sessione 15]]/[[Sessione 16]])
+- 1 pozione di guarigione, Solero ([[Sessione 17]])
 
 ### Oggetti utili
 
@@ -30,7 +31,8 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - chiave con punta lisca (possibilità di aprire una qualche serratura), Lionel ([[Sessione 15]])
 - statuina di rame di un soldatino con lancia, Lionel ([[Sessione 15]])
 - pergamena (altro pezzo di mappa come quello dato da [[Xara Tantlor, arcanista]], stesso autore) ([[Sessione 15]])
-
+- inchiostro da trascrizione pergamena, 50gp, Lionel ([[Sessione 16]])
+- 3 dosi per evocazione famiglio (Lionel), [[Sessione 17]]
 
 ### Oggetti non più in possesso
 

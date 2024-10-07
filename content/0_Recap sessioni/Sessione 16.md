@@ -55,7 +55,7 @@ Torniamo al [[Satiro Sorridente (locanda)]].
 [[Sorlar (locandiere del satiro sorridente)]] ci avvisa che è passato un ragazzo a cercarci (forse mandato da [[Amos Witt (preside del Collegio della musica)]] per sapere delle nostre avventure)
 
 Andiamo nella nostra camera per decidere cosa fare del fiore.
-Solero vorrebbe usarlo per sapere dove si trova [[Padre Klaus]]. Sabine vorrebbe trovare il suo maestro [[Gramsh, Maestro satiro di Sabine]].
+Solero vorrebbe usarlo per sapere dove si trova [[Padre Klaus]]. Sabine vorrebbe trovare il suo maestro [[Grimes, Maestro satiro di Sabine]].
 
 Sabine ci racconta cosa è successo al suo maestro.
 A quanto pare oltre ad averle insegnato tutto quello che sa, egli ha aiutato Sabine ed altri a fuggire da un gruppo di schiavisti che volevano catturarli chiamati [[Enigma (gruppo di schiavisti)]].
@@ -72,11 +72,11 @@ Solero prova divinare Klaus ingerendo il polline ma qualcosa sembra non funziona
 
 Essendo stato bloccato l'incantesimo, il fiore è ancora in nostro possesso. Solero lo cede a Sabine
 
-Sabine prova a divinare Gramsh.
+Sabine prova a divinare Grimes.
 
 ##### Visione
 
-Lamenti, Sabine vede Gramsh, magro, sporco, pavimenti in pietra, una cella; non è da solo, c'è una tartaruga umanoide, a terra, ferita, si lamenta. Un'altra figura a terra, un tabaxi, morto.
+Lamenti, Sabine vede Grimes, magro, sporco, pavimenti in pietra, una cella; non è da solo, c'è una tartaruga umanoide, a terra, ferita, si lamenta. Un'altra figura a terra, un tabaxi, morto.
 Corridoio, simil ruggito/versi strani. Altra cella dopo il corridoio, mezzo uomo/mezzo toro (minotauro) sbraita, testa mezza fracassata, braccio mancante, grigiastro. Sembra morto ma si muove.
 Luci, torce o fonte di luce, altri versi, altre celle.
 Sabine ispeziona più da vicino i corpi a terra in cerca di tatuaggi. La tartaruga non sembra averne, il tabaxi neanche a meno che non sia coperto dalla pelliccia (il tabaxi ha le braccia piegate al contrario)
