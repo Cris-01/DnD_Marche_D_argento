@@ -7,19 +7,17 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - [[Borsa conservante]], Blàfar ([[Sessione 02]])
 - Anello con ametista, Blàfar ([[Sessione 02]])
 - Cristallo donato da [[Padre Klaus]], Solero ([[Sessione 03]])
-- Pergamena della Ragnatela, Lionel ([[Sessione 04]])
 - [[Guanti del ladro - Gloves of Thievery]], Blafar ([[Sessione 04]]) 
-- Libro misterioso cifrato, Lionel ([[Sessione 02]]), magia nascosta da un potente artefatto
+- Libro misterioso cifrato, Lionel ([[Sessione 02]]), magia nascosta da un potente artefatto. dato a [[Xara Tantlor, arcanista]] da studiare [[Sessione 16]]
 - Candela di fiamma perenne, Sabine ([[Sessione 09]])
 - [[Diario di Nodio (libro in pelle di serpente)]], Lionel ([[Sessione 10]])([[Sessione 11]])
-- 2 pozioni di cura ([[Sessione 15]])
+- 2 pozioni di cura ([[Sessione 15]]) (1 Sabine da dare a Blafar e una Lionel)
 - [[Perla del potere modificata]] (ametista) (slot randomici recuperabili) ([[Sessione 15]]) 
-- [[Fiore del Destino o Cucciolo del destino]] ([[Sessione 15]]/[[Sessione 16]])
 - 1 pozione di guarigione, Solero ([[Sessione 17]])
 
 ### Oggetti utili
 
-- Borsa del guaritore, Lionel ([[Sessione 02]])
+- Borsa del guaritore, Lionel ([[Sessione 02]]) (10 dosi)
 - Moneta Eclisse trovata nel combattimento coi banditi fuori da [[SilveryMoon (città)]], Solero ([[Sessione 01]])
 - Attrezzi da scassinatore, Blafar ([[Sessione 05]])
 - Bottiglia con scritta nanica ricevuta dalla Coccinella Blu, Solero ([[Sessione 02]])
@@ -30,9 +28,10 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - pergamena con mappa data [[Xara Tantlor, arcanista]] per quest ([[Recupare il libro dalla montagna (quest)]]), Lionel ([[Sessione 12]])
 - chiave con punta lisca (possibilità di aprire una qualche serratura), Lionel ([[Sessione 15]])
 - statuina di rame di un soldatino con lancia, Lionel ([[Sessione 15]])
-- pergamena (altro pezzo di mappa come quello dato da [[Xara Tantlor, arcanista]], stesso autore) ([[Sessione 15]])
 - inchiostro da trascrizione pergamena, 50gp, Lionel ([[Sessione 16]])
-- 3 dosi per evocazione famiglio (Lionel), [[Sessione 17]]
+- 3 dosi per evocazione famiglio (Lionel), [[Sessione 17]] (consumata 1 [[Sessione 18]])
+- Libro dei mostri di Volo, messo nella borsa conservante di Blafar, [[Sessione 18]]
+- Specchietto d'argento, Solero ([[Sessione 18]])
 
 ### Oggetti non più in possesso
 
@@ -41,3 +40,6 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
  - vari opali, borsa conservante/Blafar ([[Sessione 09]]/[[Sessione 10]]) VENDUTI
  - 7 monete d'oro, Solero, [[Sessione 11]] (spartiti successivamente [[Sessione 12]]) 
  - borsello con 28 argento, 6 oro, 47 rame +  52 oro, 4 platino ([[Sessione 15]]), SPARTITI
+ - [[Fiore del Destino o Cucciolo del destino]] ([[Sessione 15]]/[[Sessione 16]]) (consumato da Sabine)
+ - Pergamena della Ragnatela, Lionel ([[Sessione 04]]). Trascritta in [[Sessione 18]]
+ - Pergamena (altro pezzo di mappa come quello dato da [[Xara Tantlor, arcanista]], stesso autore) ([[Sessione 15]]). Data a Xara [[Sessione 16]]

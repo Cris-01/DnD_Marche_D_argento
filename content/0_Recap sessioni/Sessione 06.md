@@ -22,7 +22,7 @@ Questa è stata ovviamente l'occasione per restituire l'anello alla moglie del d
 
 Oltre a loro anche molti altri al funerale non vedono di buon occhio Solero, compresa la moglie del defunto a cui è stata restituita la fede nuziale. Questo perché è stato Solero (insieme a noi), a bruciare i corpi dei soldati caduti, non lasciando ai parenti niente da seppellire.
 
-In tutto questo, Padre Solero si è accorto di una donna bionda davanti ad un mausoleo che poco dopo se n'è andata ([[Donna bionda del cimitero]]).
+In tutto questo, Padre Solero si è accorto di una donna bionda davanti ad un mausoleo che poco dopo se n'è andata ([[Donna bionda del cimitero (Ellen Drusilla Moonstep)]]).
 (aggiunta possibile quest - [[Indagare sulla donna bionda del cimitero (quest)]] - [[Indice quests]])
 
 Il mausoleo è decorato di tutto punto e ospita un certo [[Ernest Alathar]].

@@ -22,7 +22,7 @@ Alla fine della cerimonia, [[Generale Sernius Alathar]], ed [[Erk, il campione]]
 
 Familiari non sono contenti di Solero per avere bruciato corpi
 
-Padre Solero nota donna bionda davanti ad un mausoleo ([[Donna bionda del cimitero]]).
+Padre Solero nota donna bionda davanti ad un mausoleo ([[Donna bionda del cimitero (Ellen Drusilla Moonstep)]]).
 (aggiunta possibile quest - [[Indagare sulla donna bionda del cimitero (quest)]] - [[Indice quests]])
 
 Il mausoleo ospita un certo [[Ernest Alathar]].

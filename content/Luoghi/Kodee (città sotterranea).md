@@ -1,0 +1,1 @@
+[[Sessione 18]]. Citata da [[Sabine]] quando racconta a [[Fiona Moonstep]] di [[Enigma (gruppo di schiavisti)]]
