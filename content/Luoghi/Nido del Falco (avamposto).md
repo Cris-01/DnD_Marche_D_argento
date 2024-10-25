@@ -1,0 +1,1 @@
+[[Sessione 19]]. Nominato a cena da [[Peter Harming]]. E' dove si diretto [[Generale Sernius Alathar]]e forse anche dove stato il massacro della squadra caduta della [[Legione d'Argento (fazione)]]

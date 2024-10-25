@@ -32,6 +32,7 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - 3 dosi per evocazione famiglio (Lionel), [[Sessione 17]] (consumata 1 [[Sessione 18]])
 - Libro dei mostri di Volo, messo nella borsa conservante di Blafar, [[Sessione 18]]
 - Specchietto d'argento, Solero ([[Sessione 18]])
+- Permesso scritto da [[Peter Harming]], per ispezionare mausoleo di [[Gaoler, rapitore Blàfar]], ([[Sessione 19]])
 
 ### Oggetti non più in possesso
 
