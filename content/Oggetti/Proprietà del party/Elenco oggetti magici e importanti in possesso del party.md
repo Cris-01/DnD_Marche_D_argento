@@ -29,10 +29,10 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - chiave con punta lisca (possibilità di aprire una qualche serratura), Lionel ([[Sessione 15]])
 - statuina di rame di un soldatino con lancia, Lionel ([[Sessione 15]])
 - inchiostro da trascrizione pergamena, 50gp, Lionel ([[Sessione 16]])
-- 3 dosi per evocazione famiglio (Lionel), [[Sessione 17]] (consumata 1 [[Sessione 18]])
-- Libro dei mostri di Volo, messo nella borsa conservante di Blafar, [[Sessione 18]]
+- [[Libro di Volo sui mostri]], messo nella borsa conservante di Blafar, Sessione 18
 - Specchietto d'argento, Solero ([[Sessione 18]])
 - Permesso scritto da [[Peter Harming]], per ispezionare mausoleo di [[Gaoler, rapitore Blàfar]], ([[Sessione 19]])
+- Smeraldo e Collana d'oro presi da una mummia, Lionel ([[Sessione 20]])
 
 ### Oggetti non più in possesso
 
