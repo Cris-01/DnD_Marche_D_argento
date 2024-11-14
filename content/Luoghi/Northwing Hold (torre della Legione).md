@@ -1,0 +1,1 @@
+Posizionato lungo il fiume a nord-ovest di [[SilveryMoon (città)]]

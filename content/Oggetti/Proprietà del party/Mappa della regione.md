@@ -1,0 +1,1 @@
+[[Sessione 21]], comprata da [[Elword, cartografo]]

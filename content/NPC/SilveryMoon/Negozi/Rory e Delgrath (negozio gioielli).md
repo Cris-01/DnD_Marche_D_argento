@@ -1,0 +1,1 @@
+[[Sessione 21]]. Gli abbiamo venduto una collana d'oro trovata su una mummia per 40 unicorni (400 draghi)

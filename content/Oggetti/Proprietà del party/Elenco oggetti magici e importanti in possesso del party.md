@@ -33,6 +33,8 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - Specchietto d'argento, Solero ([[Sessione 18]])
 - Permesso scritto da [[Peter Harming]], per ispezionare mausoleo di [[Gaoler, rapitore Blàfar]], ([[Sessione 19]])
 - Smeraldo e Collana d'oro presi da una mummia, Lionel ([[Sessione 20]])
+- Boccetta inchiostro per trascrizioni (25gp), Lionel ([[Sessione 21]])
+- 10 razioni a testa ([[Sessione 21]])
 
 ### Oggetti non più in possesso
 
