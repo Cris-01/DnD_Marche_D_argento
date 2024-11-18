@@ -47,7 +47,7 @@ La collana d'oro ce la valuta solo 60 draghi per il suo valore materiale grezzo,
 Andiamo da [[Elword, cartografo]] e compriamo una [[Mappa della regione]] con una custodia per 15gp. Lionel ha chiesto uno sconto visto che restituiva la mappa della zona della caverna comprata l'altra volta (pagata 7 draghi). Si fa fregare perchè Elword gli regala solo la custodia in cambio.
 Solero e Blafar gli fanno notare che si è fatto fregare e Lionel capisce che è meglio che non sia lui a gestire le transazione di denaro ^^.
 
-Andiamo in cerca di un negozio di gioielli per farci valutare la collana d'oro. Troviamo un negozio vicino alla [[Casa degli invincibili (palazzo)]], gestito da [[Rory e Delgrath (negozio gioielli)]], due elfi alti molto snob che sono super ossessionati dai draghi (il negozio e pieno di arte e gioielli sui draghi).
+Andiamo in cerca di un negozio di gioielli per farci valutare la collana d'oro. Troviamo un negozio vicino alla [[Casa degli invincibili (palazzo)]], gestito da [[Rory e Delgrath (negozio gioielli)]], due elfi alti molto snob che sono super ossessionati dai draghi (il negozio è pieno di arte e gioielli sui draghi).
 Ci valutano la collana d'oro la bellezza di 40 unicorni (400 draghi). Ci vengono pagati con ecclissi. Siccome era un taglio troppo grande, Blafar chiede in cambio lune (2 platino l'una) e Lionel chiede platino. Vengono schifati con lo sguardo entrambi ma ce li cambiano.
 (Lionel si toglie i debiti con Solero e finalmente non è più povero ... per ora).
 
