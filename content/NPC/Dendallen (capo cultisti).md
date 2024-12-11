@@ -1,0 +1,1 @@
+Citato dalla testa del capo pelato dei cultisti [[Sessione 25]]

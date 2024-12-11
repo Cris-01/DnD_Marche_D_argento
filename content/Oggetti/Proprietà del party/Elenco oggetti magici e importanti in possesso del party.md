@@ -1,8 +1,15 @@
 I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre Solero]], [[Lionel Cuternitis]])
 
+#### Recap pozioni di guarigione
+
+- 1 pozione di guarigione maggiore Blafar
+- 2 pozioni di guarigione Lionel
+- 2 pozioni di guarigione Solero
+- 2 pozioni di guarigione Sabine
+
 ### Oggetti magici
 
-- Pozione di cura, Sabine ([[Sessione 02]])
+- Pozione di guarigione, Sabine ([[Sessione 02]])
 - Pozione di antiveleno, Solero ([[Sessione 02]])
 - [[Borsa conservante]], Blàfar ([[Sessione 02]])
 - Anello con ametista, Blàfar ([[Sessione 02]])
@@ -11,9 +18,14 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - Libro misterioso cifrato, Lionel ([[Sessione 02]]), magia nascosta da un potente artefatto. dato a [[Xara Tantlor, arcanista]] da studiare [[Sessione 16]]
 - Candela di fiamma perenne, Sabine ([[Sessione 09]])
 - [[Diario di Nodio (libro in pelle di serpente)]], Lionel ([[Sessione 10]])([[Sessione 11]])
-- 2 pozioni di cura ([[Sessione 15]]) (1 Sabine da dare a Blafar e una Lionel)
+- 2 pozioni di guarigione ([[Sessione 15]]) (1 Sabine da dare a Blafar e una Lionel)
 - [[Perla del potere modificata]] (ametista) (slot randomici recuperabili) ([[Sessione 15]]) 
 - 1 pozione di guarigione, Solero ([[Sessione 17]])
+- 1 pozione di guarigione maggiore, Blafar ([[Sessione 25]])
+- 2 fiale di anti pietrificazione (una consumata) ([[Sessione 25]])
+- 2 pozioni di guarigione ([[Sessione 25]]), spartite
+- [[Necrolace]] (collana cultista), Sabine ([[Sessione 25]])
+- [[Diadema della morte]] (preso dai cultisti), Blafar ([[Sessione 25]])
 
 ### Oggetti utili
 
@@ -35,6 +47,7 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - Smeraldo e Collana d'oro presi da una mummia, Lionel ([[Sessione 20]])
 - Boccetta inchiostro per trascrizioni (25gp), Lionel ([[Sessione 21]])
 - 10 razioni a testa ([[Sessione 21]])
+- Disegno del tatuaggio di scarabeo legato a [[Velsharoon]], tenuto da Lionel ([[Sessione 25]])
 
 ### Oggetti non più in possesso
 
@@ -46,3 +59,6 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
  - [[Fiore del Destino o Cucciolo del destino]] ([[Sessione 15]]/[[Sessione 16]]) (consumato da Sabine)
  - Pergamena della Ragnatela, Lionel ([[Sessione 04]]). Trascritta in [[Sessione 18]]
  - Pergamena (altro pezzo di mappa come quello dato da [[Xara Tantlor, arcanista]], stesso autore) ([[Sessione 15]]). Data a Xara [[Sessione 16]]
+ - 300 draghi e 50 unicorni trovati nel covo del cultisti ([[Sessione 25]]), spartiti fra noi
+
+

@@ -9,7 +9,7 @@ Due figure inginocchiate su un cadavere di bugbear.
 Il cadavere si trova all'interno di vasca profonda una 20 di centimetri, con una grande quantità di sangue all'interno.
 
 Sconfiggiamo e interroghiamo i cultisti. 
-Nominano il nome di [[Velsharam]], sembra essere la creatura che venerano.
+Nominano il nome di [[Velsharoon]], sembra essere la creatura che venerano.
 Il cultista si rifiuta di parlare. Viene giustiziato da Sabine.
 
 Sentiamo una cantilena, come di un rituale in corso. Tornado nei pressi della stanza con la grata troviamo una porta nascosta.
