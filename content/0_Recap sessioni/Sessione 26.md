@@ -33,7 +33,8 @@ Andiamo da [[Fiona Moonstep]]. Le raccontiamo dei cultisti e terrà d'occhio la 
 Pare abbia origini incerte, incertezza anche su una sua possibile morte.
 Farà ricerche lui su [[Velsharoon]] per noi.
 
-Torniamo al Satiro.
+Torniamo al Satiro. Diciamo a [[Sorlar (locandiere del satiro sorridente)]] che l'indomani partiremo e saremo via alcuni giorni, ma nel mentre può liberare la nostra camera e usarla visto che non vogliamo far spendere inutilmente soldi a [[Peter Harming]]
+
 Blafar parla con anello, l'entità lo canzona perchè si fa dire Fiona cosa dire o non poter dire, quando è esitante a dire il nome di [[Velsharoon]].
 
 Dormiamo. Sogno Sabine
