@@ -26,6 +26,7 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - 2 pozioni di guarigione ([[Sessione 25]]), spartite
 - [[Necrolace]] (collana cultista), Sabine ([[Sessione 25]])
 - [[Diadema della morte]] (preso dai cultisti), Blafar ([[Sessione 25]])
+- Pergamena Caduta morbida, Lionel, comprata da Xara ([[Sessione 26]])
 
 ### Oggetti utili
 
@@ -44,10 +45,10 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - [[Libro di Volo sui mostri]], messo nella borsa conservante di Blafar, Sessione 18
 - Specchietto d'argento, Solero ([[Sessione 18]])
 - Permesso scritto da [[Peter Harming]], per ispezionare mausoleo di [[Gaoler, rapitore Blàfar]], ([[Sessione 19]])
-- Smeraldo e Collana d'oro presi da una mummia, Lionel ([[Sessione 20]])
 - Boccetta inchiostro per trascrizioni (25gp), Lionel ([[Sessione 21]])
 - 10 razioni a testa ([[Sessione 21]])
 - Disegno del tatuaggio di scarabeo legato a [[Velsharoon]], tenuto da Lionel ([[Sessione 25]])
+- Componenti per evocazione [[Coral (famiglio)]] x3 da [[Annette Reynolds, l'erborista]], Lionel ([[Sessione 26]]), usata una (4 rimanenti) 
 
 ### Oggetti non più in possesso
 
@@ -59,6 +60,7 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
  - [[Fiore del Destino o Cucciolo del destino]] ([[Sessione 15]]/[[Sessione 16]]) (consumato da Sabine)
  - Pergamena della Ragnatela, Lionel ([[Sessione 04]]). Trascritta in [[Sessione 18]]
  - Pergamena (altro pezzo di mappa come quello dato da [[Xara Tantlor, arcanista]], stesso autore) ([[Sessione 15]]). Data a Xara [[Sessione 16]]
+ - Smeraldo e Collana d'oro presi da una mummia, Lionel ([[Sessione 20]]) venduta a [[Rory e Delgrath (negozio gioielli)]] nella [[Sessione 21]]
  - 300 draghi e 50 unicorni trovati nel covo del cultisti ([[Sessione 25]]), spartiti fra noi
 
 

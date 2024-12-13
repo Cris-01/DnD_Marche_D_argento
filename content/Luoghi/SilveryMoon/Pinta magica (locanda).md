@@ -1,0 +1,1 @@
+[[Sessione 26]] citata dai tipi del [[Caprone Danzante (locanda economica)]]. Pare sia frequentata da studenti della [[Volta dei saggi (SilveryMoon)]] e dell' [[Invocazione arcana (Scuola per stregoni)]].

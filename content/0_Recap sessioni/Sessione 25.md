@@ -1,4 +1,4 @@
-( Data: 07/11/2024 )
+( Data: 05/12/2024 )
 
 Data in-game: 12°-13° maggio
 
