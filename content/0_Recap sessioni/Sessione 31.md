@@ -12,4 +12,4 @@ Nella stanza di Scaglianera troviamo 40 draghi, una pozione di liquido nero e un
 
 Parliamo con [[Mastro, coboldo alchimista]]. Ci spiega che prima dell'alba arriveranno degli orchi a cui loro devono dare il veleno di verme-iena. Gli diciamo che ci occuperemo noi degli orchi e che poi lui con i coboldi rimasti saranno liberi.
 
-Iniziamo a preparare un piano per prendere gli orchi di sorpresa 
+Iniziamo a preparare un piano per prendere gli orchi di sorpresa.
