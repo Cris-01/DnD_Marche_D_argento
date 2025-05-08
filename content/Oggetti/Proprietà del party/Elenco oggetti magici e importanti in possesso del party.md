@@ -33,7 +33,6 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - Tatuaggio "Santuario" di Solero, fatto da [[Paul Po]] ([[Sessione 34]])
 - Pergamena Nube di nebbia, Lionel, creata ([[Sessione 38]])
 - Diario di Nodio parte 2 ([[Sessione 38]])
-- 3 Cilindri rubati da Nodio a [[Padre Klaus]], ora li ha Solero ([[Sessione 38]])
 - Pozione di Invisibilità, di oscurità, cura maggiore, Ombra di Moil ([[Sessione 38]])
 - [[Veste di Dendallen]], ([[Sessione 38]])
 - Bacchetta dell'intralciare (8 cariche) ([[Sessione 39]])
@@ -66,6 +65,7 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - Smeraldo regalato a Lionel da [[Eidonn, Ekpass Iggytun Dorei Ommisil Naroput Nannivar]] ([[Sessione 33]])
 - Funghi trovati nel tempietto di [[Kaab Lu]], da dare a [[Annette Reynolds, l'erborista]] ([[Sessione 34]])
 - Chiave per aprire porte della torre intermittente ([[Sessione 37]])
+- 3 Cilindri rubati da Nodio a [[Padre Klaus]], ora li ha Solero ([[Sessione 38]])
 - Statuina carro ([[Sessione 38]])
 - Pelle di Naga ([[Sessione 38]])
 
