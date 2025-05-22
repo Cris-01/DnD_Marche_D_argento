@@ -6,8 +6,6 @@ Giocatori: [[Lionel Cuternitis]], [[Padre Solero]], [[Blàfar]], [[Sabine]]
 
 Ci dirigiamo verso il negozio di [[Xara Tantlor, arcanista]].
 
-Lungo la strada incrociamo [[Helios Opyum, fabbro]] che ci ricorda che dobbiamo ancora finanziare la miniera.
-
 Vediamo [[Cantagallo]] uscire e Solero e Lionel vanno a farci due chiacchiere. Sembra abbia deciso di non fare più il bardo anche se è passato l'esame di ingresso.
 
 Xara non è contenta del fatto che non siamo ancora andati a recuperare la pergamena.
