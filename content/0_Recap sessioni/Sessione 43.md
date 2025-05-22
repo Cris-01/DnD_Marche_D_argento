@@ -25,3 +25,6 @@ Sabine e Blafar vanno a controllare se il [[Generale Sernius Alathar]] è dispon
 Pare che entro 2 settimane ci sarà una riunione del consiglio della città. Il generale è nervoso a riguardo.
 
 NOTA: siamo famosi in città
+
+Solero e Lionel sono andati al mercato e allo Scudo di Mystra.
+Siamo passati anche alla [[Freccia d'oro]] gestito da due elfi dei boschi Belinda e Belandi.
