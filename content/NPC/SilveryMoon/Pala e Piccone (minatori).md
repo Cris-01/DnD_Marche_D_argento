@@ -1,0 +1,1 @@
+Piccone naso aquilino e Pala omaccione con la faccia piatta.

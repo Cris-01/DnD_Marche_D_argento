@@ -1,0 +1,1 @@
+![[belandi.jpg]]

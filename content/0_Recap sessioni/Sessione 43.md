@@ -27,4 +27,4 @@ Pare che entro 2 settimane ci sarà una riunione del consiglio della città. Il 
 NOTA: siamo famosi in città
 
 Solero e Lionel sono andati al mercato e allo Scudo di Mystra.
-Siamo passati anche alla [[Freccia d'oro]] gestito da due elfi dei boschi Belinda e Belandi.
+Siamo passati anche alla [[Freccia d'oro]] gestito da due elfi dei boschi [[Belinda HeavenBow]] e [[Belandi HeavenBow]].
