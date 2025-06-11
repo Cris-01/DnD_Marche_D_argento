@@ -1,6 +1,6 @@
 ( Data: 26/05/2025 )
 
-Data in-game: 11-12 giugno
+Data in-game: 10-11 giugno
 
 Giocatori: [[Lionel Cuternitis]], [[Padre Solero]], [[Blàfar]], [[Sabine]]
 

@@ -1,6 +1,6 @@
 ( Data: 07/05/2025 )
 
-Data in-game: 9 giugno? (+20 giorni da quando siamo entrati nella torre)
+Data in-game: 8 giugno (+20 giorni da quando siamo entrati nella torre)
 
 Giocatori: [[Lionel Cuternitis]], [[Padre Solero]], [[Blàfar]], [[Sabine]]
 
