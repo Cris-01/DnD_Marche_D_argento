@@ -37,6 +37,8 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - [[Veste di Dendallen]], ([[Sessione 38]])
 - Bacchetta dell'intralciare (8 cariche) ([[Sessione 39]])
 - Anello del passo velato (3 cariche) ([[Sessione 39]])
+- Sacchetto polvere d'avorio (Passare senza tracce), Lionel ([[Sessione 47]])
+- Pergamena di Dissolvi Magie, Lionel ([[Sessione 47]])
 
 ### Oggetti utili
 
