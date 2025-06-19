@@ -26,7 +26,7 @@ Ci consegnano alcuni oggetti che ci saranno utili nella missione.
 aggiornamento [[Elenco oggetti magici e importanti in possesso del party]]
 
 Andiamo a cercare le ex guardie.
-Sabine e Blafar vanno da [[Ago e Filo (sartoria)]], e chiedono di fare dei vestiti con cui camuffarci.
+Sabine e Blafar vanno da [[Ago e Filo (sartoria)]], e chiedono di fare dei vestiti con cui camuffarci. Ma per ora non facciamo ancora l'ordine perché dobbiamo capire cosa ci serve.
 Solero e Lionel vanno al mercato ma non incontrano nessuno.
 Poi vanno da WyrmWorks da due elfi [[Rory e Delgrath (negozio gioielli)]].
 Li vediamo un tipo che corrisponde alla descrizione di Hart.
