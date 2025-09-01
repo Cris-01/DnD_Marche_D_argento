@@ -39,6 +39,14 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - Anello del passo velato (3 cariche) ([[Sessione 39]])
 - Sacchetto polvere d'avorio (Passare senza tracce), Lionel ([[Sessione 47]])
 - Pergamena di Dissolvi Magie, Lionel ([[Sessione 47]])
+- 2 pergamene sonno, Lionel ([[Sessione 50]])
+- Pezzo di metallo, Blafar  ([[Sessione 52]])
+- Statuetta di un vaso per collezione di Nodio, Lionel  ([[Sessione 52]])
+- Pezzo di metallo, Blafar  ([[Sessione 52]])
+- [[Medaglione sacro Amanautor]], Solero  ([[Sessione 52]])
+- [[Bacchetta piaga degli insetti]], Lionel ([[Sessione 52]])
+- [[Carta guanti Sabine]], Sabine ([[Sessione 53]])
+
 
 ### Oggetti utili
 
@@ -71,6 +79,8 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - Statuina carro ([[Sessione 38]])
 - Pelle di Naga ([[Sessione 38]])
 
+
+
 ### Oggetti non più in possesso
 
 - Opale trovato nel laghetto, Sabine [[Sessione 09]] , venduto ([[Sessione 12]])
@@ -85,3 +95,4 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
  - 300 draghi e 50 unicorni trovati nel covo del cultisti ([[Sessione 25]]), spartiti fra noi
  - inchiostro da trascrizione pergamena, 50gp, Lionel ([[Sessione 16]]), utilizzata per creare pergamena
 - Collana con scritta in gergo delle profondità trovata su capo degli orchi ([[Sessione 33]]), lasciata a [[Kaab Lu]] per fargliela studiare
+- Spilla Xara ([[Sessione 52]]), data a Xara [[Sessione 53]]

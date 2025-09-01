@@ -14,10 +14,10 @@ Info sulla tenuta.
 Le guardie fanno turni da 4 ore. Una persona fuori e due all'ingresso.
 
 Elenco di 4 ex guardie che hanno lavorato per Vidora:
-- Fink: cacciatore, Freccia d’Oro o Miele di Quercia
-- Hart: appassionato di storie, WyrmWorks o Collegio della Musica
-- Pristine Goodmay: neo-nobildonna, La Stangata o Ago&Filo
-- Arthur Eskiard: giocatore, Caprone Danzante o Mercato
+- [[Fink, cacciatore ex guardia]]: cacciatore, Freccia d’Oro o Miele di Quercia
+- [[Hart, appassionato storie ex guardia]]: appassionato di storie, WyrmWorks o Collegio della Musica
+- [[Pristine Goodmay ex guardia nobildonna]]: neo-nobildonna, La Stangata o Ago&Filo
+- [[Arthur Eskiard, ex guardia Vidora]]: giocatore, Caprone Danzante o Mercato
 
 Ci consegnano alcuni oggetti che ci saranno utili nella missione.
 - Sacchetto polvere d'avorio (Passare senza tracce)
