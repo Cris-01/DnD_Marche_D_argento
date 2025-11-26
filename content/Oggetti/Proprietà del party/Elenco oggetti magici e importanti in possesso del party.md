@@ -46,6 +46,9 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - [[Medaglione sacro Amanautor]], Solero  ([[Sessione 52]])
 - [[Bacchetta piaga degli insetti]], Lionel ([[Sessione 52]])
 - [[Carta guanti Sabine]], Sabine ([[Sessione 53]])
+- Sfere contatta altri piani ([[Sessione 64]])
+- Stivali Dendallen, Sabine ([[Sessione 64]])
+- pergamena velocità, Lionel ([[Sessione 66 - Auvandell in fiamme]])
 
 
 ### Oggetti utili
@@ -78,7 +81,7 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - 3 Cilindri rubati da Nodio a [[Padre Klaus]], ora li ha Solero ([[Sessione 38]])
 - Statuina carro ([[Sessione 38]])
 - Pelle di Naga ([[Sessione 38]])
-
+- Statuetta torre ([[Sessione 64]])
 
 
 ### Oggetti non più in possesso
