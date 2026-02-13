@@ -2,5 +2,5 @@
 
 Data in-game: - giugno
 
-Giocatori: [[Lionel Cuternitis]], [[Padre Solero]], [[Blàfar]], [[Sabine]]
+Giocatori: [[Lionel Cuternitis]], [[Padre Solero]], [[Blàfar]], [[Sabine]], [[Elarion]]
 

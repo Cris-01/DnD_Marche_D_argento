@@ -42,7 +42,6 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - 2 pergamene sonno, Lionel ([[Sessione 50]])
 - Pezzo di metallo, Blafar  ([[Sessione 52]])
 - Statuetta di un vaso per collezione di Nodio, Lionel  ([[Sessione 52]])
-- Pezzo di metallo, Blafar  ([[Sessione 52]])
 - [[Medaglione sacro Amanautor]], Solero  ([[Sessione 52]])
 - [[Bacchetta piaga degli insetti]], Lionel ([[Sessione 52]])
 - [[Carta guanti Sabine]], Sabine ([[Sessione 53]])
@@ -99,3 +98,4 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
  - inchiostro da trascrizione pergamena, 50gp, Lionel ([[Sessione 16]]), utilizzata per creare pergamena
 - Collana con scritta in gergo delle profondità trovata su capo degli orchi ([[Sessione 33]]), lasciata a [[Kaab Lu]] per fargliela studiare
 - Spilla Xara ([[Sessione 52]]), data a Xara [[Sessione 53]]
+- Pergamena Velocità e bacchetta dell'intralciare [[Sessione 69]]. Scambiate per diamante da 850 draghi

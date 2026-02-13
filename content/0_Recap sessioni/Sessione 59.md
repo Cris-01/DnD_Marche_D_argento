@@ -17,7 +17,7 @@ Dormiamo.
 
 Visione (Doma dice che è tempo per l'iniziazione)
 Visione del tempio. Mani umane, armatura ludica.
-Antenato umano di Blafar Adrius, ha le visioni come se fosse il suo antenato. Mazzafrusto nella tomba.
+Antenato umano di Blafar [[Adrius, antenato di Blafar]], ha le visioni come se fosse il suo antenato. Mazzafrusto nella tomba.
 
 Dormiamo di nuovo, per dare tempo a Blafar di recuperare le forze.
 Prepariamo attacco agli orchi.
