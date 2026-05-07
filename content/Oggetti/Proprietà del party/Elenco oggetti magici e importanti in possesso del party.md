@@ -48,6 +48,7 @@ I seguenti oggetti sono in possesso del party ([[Sabine]], [[Blàfar]], [[Padre 
 - Sfere contatta altri piani ([[Sessione 64]])
 - Stivali Dendallen, Sabine ([[Sessione 64]])
 - pergamena velocità, Lionel ([[Sessione 66 - Auvandell in fiamme]])
+- [[Bloodmire Phiale]], Sabine ([[Sessione 73 - Uno sguardo di pietra]])
 
 
 ### Oggetti utili
